@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!-- Configuration file for CIKM 2021 demo -->
+<!-- Part 01: Basic functionality -->
+<!-- Adapted from demo video demo due to recent software updates -->
+
+<librec-auto>
+	<random-seed>202110</random-seed>
+	<thread-count>1</thread-count>
+	<library src="system">default-algorithms.xml</library>
+	
+	<!-- DATA SECTION -->
+	<data>
+		<data-dir>data</data-dir>
+		<format>UIR</format>
+		<data-file format="text">ml_sample_6000.csv</data-file>
+	</data>
+	
+	<!-- FEATURES SECTION -->
+	<features>
+		<appender-class>net.librec.data.convertor.appender.ItemFeatureAppender</appender-class>
+		<item-feature-file>movieid_feature_df.csv</item-feature-file>
+		<protected-feature name="fea:short" type="item">short</protected-feature>
+	</features>
+	
+	<!-- SPLITTER SECTION -->
+	<splitter>
+		<model count="3">kcv</model>
+		<save>true</save>
+	</splitter>
+	
+  	<optimize>
+		<iterations>100</iterations> 
+		<metric>ndcg_metric.py</metric>
+	</optimize>   
+	
+		<!-- ALGORITHM SECTION -->
+	<alg ref="alg:bpr">
+		<iterator-max>60</iterator-max>
+		<user-reg><lower>0.001</lower><upper>0.8</upper></user-reg>
+		<item-reg><lower>0.001</lower><upper>0.8</upper></item-reg>
+		<num-factors type="discrete"><lower>20</lower><upper>150</upper></num-factors>
+		<learn-rate>0.01</learn-rate>
+        <learn-rate-max>0.1</learn-rate-max>
+	</alg>
+​
+	<!-- METRICS SECTION -->
+	<metric>
+		<ranking>true</ranking>
+		<list-size>50</list-size>
+		<class>ndcg</class>
+		<protected-feature ref="fea:short"/>
+	</metric>
+​
+        <metric>
+		<script src="system" lang="python3">
+			<script-name>ndcg_metric.py</script-name>
+			<param name="list_size">10</param>
+		</script>
+	</metric>
+	
+	<metric>
+		<script src="system" lang="python3">
+			<script-name>psp.py</script-name>
+			<param name="list_size">10</param>
+			<param name="protected_feature">short</param>
+		</script>
+	</metric>
+	
+	<!-- POST-PROCESSING SECTION -->
+​
+	<post>
+		<script lang="python3" src="system">
+			<script-name>result_graphics.py</script-name>
+			<param name="browser">true</param>
+		</script> 
+		<script lang="python3" src="system">
+			<script-name>results_to_csv.py</script-name>
+			<param name="option">all</param>
+		</script> 
+	</post>
+</librec-auto>

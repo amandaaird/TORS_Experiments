@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!-- Configuration file for CIKM 2021 demo -->
+<!-- Part 01: Basic functionality -->
+<!-- Adapted from demo video demo due to recent software updates -->
+
+<librec-auto>
+	<random-seed>202110</random-seed>
+	<thread-count>1</thread-count>
+	<library src="system">default-algorithms.xml</library>
+	
+	<!-- DATA SECTION -->
+	<data>
+		<data-dir>data</data-dir>
+		<format>UIR</format>
+		<data-file format="text">ml_sampl_6000.csv</data-file>
+	</data>
+	
+	<!-- FEATURES SECTION -->
+	<features>
+		<appender-class>net.librec.data.convertor.appender.ItemFeatureAppender</appender-class>
+		<item-feature-file>movieid_feature_df.csv</item-feature-file>
+		<protected-feature name="fea:short" type="item">short</protected-feature>
+	</features>
+	
+	<!-- SPLITTER SECTION -->
+	<splitter>
+		<model count="3">kcv</model>
+		<save>true</save>
+	</splitter>
+	
+	<!-- ALGORITHM SECTION -->
+	<alg ref="alg:rankals">
+		<iterator-max>10</iterator-max>
+        <num-factors type="discrete">
+			<value>5</value>
+			<value>10</value>
+			<value>15</value>
+			<value>20</value>
+			<value>25</value>
+			<value>30</value>
+			<value>35</value>
+			<value>40</value>
+			<value>45</value>
+			<value>50</value>
+			<value>55</value>
+			<value>60</value>
+			<value>65</value>
+			<value>70</value>
+			<value>75</value>
+			<value>80</value>
+			<value>85</value>
+			<value>90</value>
+			<value>95</value>
+			<value>100</value>
+		</num-factors>
+	</alg>
+
+	<!-- METRICS SECTION -->
+	<metric>
+		<ranking>true</ranking>
+		<list-size>50</list-size>
+		<class>ndcg</class>
+		<protected-feature ref="fea:short"/>
+	</metric>
+
+	<metric>
+		<script src="system" lang="python3">
+			<script-name>ndcg_metric.py</script-name>
+			<param name="list_size">50</param>
+		</script>
+	</metric>
+	
+	<!-- POST-PROCESSING SECTION -->
+
+	<post>
+		<script lang="python3" src="system">
+			<script-name>result_graphics.py</script-name>
+			<param name="browser">true</param>
+		</script> 
+		<script lang="python3" src="system">
+			<script-name>results_to_csv.py</script-name>
+			<param name="option">all</param>
+		</script> 
+	</post>
+</librec-auto>
