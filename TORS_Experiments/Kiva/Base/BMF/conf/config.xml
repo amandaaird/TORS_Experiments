@@ -12,7 +12,7 @@
 	<data>
 		<data-dir>data</data-dir>
 		<format>UIR</format>
-		<data-file format="text">../rating_5000_cls_hc_10core_iterative.csv</data-file>
+		<data-file format="text">../../rating_5000_cls_hc_10core_iterative.csv</data-file>
 	</data>
 	
 	<!-- FEATURES SECTION -->
