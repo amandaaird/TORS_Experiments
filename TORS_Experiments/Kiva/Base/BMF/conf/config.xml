@@ -18,7 +18,7 @@
 	<!-- FEATURES SECTION -->
 	<features>
 		<appender-class>net.librec.data.convertor.appender.ItemFeatureAppender</appender-class>
-		<item-feature-file>../loan_feature_df_hc_10core.csv</item-feature-file>
+		<item-feature-file>../../loan_feature_df_hc_10core.csv</item-feature-file>
 	</features>
 
 	<optimize>
