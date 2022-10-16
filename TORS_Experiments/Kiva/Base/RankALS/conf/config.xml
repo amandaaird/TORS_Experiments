@@ -36,26 +36,8 @@
 	<alg ref="alg:rankals">
 		<iterator-max>25</iterator-max>
         <num-factors type="discrete">
-			<value>5</value>
-			<value>10</value>
-			<value>15</value>
-			<value>20</value>
-			<value>25</value>
-			<value>30</value>
-			<value>35</value>
-			<value>40</value>
-			<value>45</value>
-			<value>50</value>
-			<value>55</value>
-			<value>60</value>
-			<value>65</value>
-			<value>70</value>
-			<value>75</value>
-			<value>80</value>
-			<value>85</value>
-			<value>90</value>
-			<value>95</value>
-			<value>100</value>
+			<lower>5</lower>
+			<upper>100</upper>
 		</num-factors>
 	</alg>
 
