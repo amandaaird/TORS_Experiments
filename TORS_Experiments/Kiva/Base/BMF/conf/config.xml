@@ -58,13 +58,6 @@
 		</script>
 	</metric>
 	
-	<metric>
-		<script src="system" lang="python3">
-			<script-name>psp.py</script-name>
-			<param name="list_size">10</param>
-			<param name="protected_feature">short</param>
-		</script>
-	</metric>
 	
 	<!-- POST-PROCESSING SECTION -->
 
