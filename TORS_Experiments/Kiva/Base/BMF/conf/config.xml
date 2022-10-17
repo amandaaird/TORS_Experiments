@@ -28,7 +28,7 @@
 	
 	<!-- SPLITTER SECTION -->
 	<splitter>
-		<model count="3">kcv</model>
+		<model count="5">kcv</model>
 		<save>true</save>
 	</splitter>
 	
