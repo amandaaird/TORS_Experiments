@@ -37,22 +37,21 @@
 		<similarity type="item">pcc</similarity> -->
 		<iterator-max>60</iterator-max>
         <num-factors type="discrete"><lower>20</lower><upper>150</upper></num-factors>
-		<learn-rate-max><lower>0.001</lower><upper>0.1</upper></learn-rate-max>
-		<learn-rate><lower>0.00001</lower><upper>0.1</upper></learn-rate>
+		<user-reg><lower>0.0</lower><upper>0.2</upper></user-reg>
+		<bias-reg><lower>0.0</lower><upper>0.2</upper></bias-reg>
+	    	<item-reg><lower>0.0</lower><upper>0.2</upper></item-reg>
 
 	</alg>
 
 	<!-- METRICS SECTION -->
 	<metric>
 		<ranking>true</ranking>
-		<list-size>50</list-size>
+		<list-size>20</list-size>
 		<class>ndcg</class>
-	</metric>
 
-	<metric>
 		<script src="system" lang="python3">
-			<script-name>ndcg_metric.py</script-name>
-			<param name="list_size">10</param>
+		<script-name>ndcg_metric.py</script-name>
+		<param name="list_size">20</param>
 		</script>
 	</metric>
 	
