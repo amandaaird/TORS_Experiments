@@ -34,7 +34,7 @@
 	
 	<!-- ALGORITHM SECTION -->
 	<alg ref="alg:rankals">
-		<iterator-max>25</iterator-max>
+		<iterator-max>10</iterator-max>
         <num-factors type="discrete">
 			<lower>5</lower>
 			<upper>100</upper>
@@ -44,14 +44,12 @@
 	<!-- METRICS SECTION -->
 	<metric>
 		<ranking>true</ranking>
-		<list-size>50</list-size>
+		<list-size>20</list-size>
 		<class>ndcg</class>
-	</metric>
 
-	<metric>
 		<script src="system" lang="python3">
 			<script-name>ndcg_metric.py</script-name>
-			<param name="list_size">10</param>
+			<param name="list_size">20</param>
 		</script>
 	</metric>
 	
