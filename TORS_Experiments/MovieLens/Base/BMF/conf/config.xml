@@ -19,7 +19,6 @@
 	<features>
 		<appender-class>net.librec.data.convertor.appender.ItemFeatureAppender</appender-class>
 		<item-feature-file>movieid_feature_df.csv</item-feature-file>
-		<protected-feature name="fea:short" type="item">short</protected-feature>
 	</features>
 
 	<optimize>
