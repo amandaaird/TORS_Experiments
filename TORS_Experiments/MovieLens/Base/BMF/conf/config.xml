@@ -10,7 +10,7 @@
 	
 	<!-- DATA SECTION -->
 	<data>
-		<data-dir>data</data-dir>
+		<data-dir>../../data</data-dir>
 		<format>UIR</format>
 		<data-file format="text">ml_sample_6000.csv</data-file>
 	</data>
