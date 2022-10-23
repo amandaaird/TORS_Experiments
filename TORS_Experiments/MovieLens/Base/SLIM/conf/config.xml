@@ -28,10 +28,10 @@
 		<save>true</save>
 	</splitter>
 	
-        <-- <optimize>
+        <optimize>
                 <iterations>100</iterations>
                 <metric>ndcg_metric.py</metric>
-        </optimize> -->
+        </optimize>
 
         <!-- ALGORITHM SECTION -->
         <alg ref="alg:slim">
