@@ -19,7 +19,6 @@
 	<features>
 		<appender-class>net.librec.data.convertor.appender.ItemFeatureAppender</appender-class>
 		<item-feature-file>movieid_feature_df.csv</item-feature-file>
-		<protected-feature name="fea:short" type="item">short</protected-feature>
 	</features>
 	
 	<!-- SPLITTER SECTION -->
@@ -36,10 +35,9 @@
         <!-- ALGORITHM SECTION -->
         <alg ref="alg:slim">
                 <iterator-max>15</iterator-max>
-                <l1-reg><lower><value>0.5</value></lower>
-			<upper><value>2</value></upper></l1-reg>
-		<l2-reg><lower><value>0.5</value></lower>
-			<upper><value>2</value></upper></l2-reg>
+                <l1-reg><lower>0.5</lower><upper>2</upper></l1-reg>
+                <l2-reg><lower>0.5</lower><upper>2</upper></l2-reg>
+		<neighborhood-size><lower>10</lower><upper>30</upper></neighborhood-size>
         </alg>
 
         <!-- METRICS SECTION -->
