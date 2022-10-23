@@ -37,7 +37,7 @@
         <alg ref="alg:slim">
                 <iterator-max>15</iterator-max>
                 <l1-reg><lower><value>0.5</value></lower>
-			<upper><value>2</value></upper</l1-reg>
+			<upper><value>2</value></upper></l1-reg>
 		<l2-reg><lower><value>0.5</value></lower>
 			<upper><value>2</value></upper></l2-reg>
         </alg>
