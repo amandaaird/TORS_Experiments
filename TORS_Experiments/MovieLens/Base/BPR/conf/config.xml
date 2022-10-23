@@ -10,7 +10,7 @@
 	
 	<!-- DATA SECTION -->
 	<data>
-		<data-dir>data</data-dir>
+		<data-dir>../../data</data-dir>
 		<format>UIR</format>
 		<data-file format="text">ml_sample_6000.csv</data-file>
 	</data>
@@ -19,12 +19,11 @@
 	<features>
 		<appender-class>net.librec.data.convertor.appender.ItemFeatureAppender</appender-class>
 		<item-feature-file>movieid_feature_df.csv</item-feature-file>
-		<protected-feature name="fea:short" type="item">short</protected-feature>
 	</features>
 	
 	<!-- SPLITTER SECTION -->
 	<splitter>
-		<model count="3">kcv</model>
+		<model count="5">kcv</model>
 		<save>true</save>
 	</splitter>
 	
@@ -48,23 +47,14 @@
 		<ranking>true</ranking>
 		<list-size>50</list-size>
 		<class>ndcg</class>
-		<protected-feature ref="fea:short"/>
-	</metric>
-​
-        <metric>
+
+
 		<script src="system" lang="python3">
 			<script-name>ndcg_metric.py</script-name>
-			<param name="list_size">10</param>
+			<param name="list_size">50</param>
 		</script>
 	</metric>
-	
-	<metric>
-		<script src="system" lang="python3">
-			<script-name>psp.py</script-name>
-			<param name="list_size">10</param>
-			<param name="protected_feature">short</param>
-		</script>
-	</metric>
+
 	
 	<!-- POST-PROCESSING SECTION -->
 ​
