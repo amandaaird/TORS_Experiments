@@ -24,7 +24,7 @@
 	
 	<!-- SPLITTER SECTION -->
 	<splitter>
-		<model count="3">kcv</model>
+		<model count="5">kcv</model>
 		<save>true</save>
 	</splitter>
 	
@@ -47,7 +47,6 @@
                 <ranking>true</ranking>
                 <list-size>25</list-size>
                 <class>ndcg</class>
-
 
                 <script src="system" lang="python3">
                         <script-name>ndcg_metric.py</script-name>
