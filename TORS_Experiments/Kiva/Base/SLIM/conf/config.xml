@@ -37,7 +37,7 @@
                 <iterator-max>15</iterator-max>
                 <l1-reg><lower>0.5</lower><upper>2</upper></l1-reg>
                 <l2-reg><lower>0.5</lower><upper>2</upper></l2-reg>
-		#<neighborhood-size><lower>10</lower><upper>30</upper></neighborhood-size>
+		<neighborhood-size><lower>10</lower><upper>30</upper></neighborhood-size>
         </alg>
 
         <!-- METRICS SECTION -->
