@@ -36,8 +36,8 @@
 	<alg ref="alg:rankals">
 		<iterator-max>10</iterator-max>
         <num-factors type="discrete">
-			<lower>5</lower>
-			<upper>100</upper>
+			<lower>1</lower>
+			<upper>10</upper>
 		</num-factors>
 	</alg>
 
