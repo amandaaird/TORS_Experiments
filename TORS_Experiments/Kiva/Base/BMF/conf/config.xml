@@ -35,7 +35,7 @@
 	<!-- ALGORITHM SECTION -->
     <alg ref="alg:biasedmf">
 		<similarity type="item">pcc</similarity> -->
-		<iterator-max>60</iterator-max>
+		<iterator-max>80</iterator-max>
         <num-factors type="discrete"><lower>20</lower><upper>150</upper></num-factors>
 		<user-reg><lower>0.0</lower><upper>0.2</upper></user-reg>
 		<bias-reg><lower>0.0</lower><upper>0.2</upper></bias-reg>
