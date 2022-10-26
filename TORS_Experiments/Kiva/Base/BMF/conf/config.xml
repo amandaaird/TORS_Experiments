@@ -40,6 +40,7 @@
 		<user-reg><lower>0.0</lower><upper>0.2</upper></user-reg>
 		<bias-reg><lower>0.0</lower><upper>0.2</upper></bias-reg>
 	    	<item-reg><lower>0.0</lower><upper>0.2</upper></item-reg>
+	    	<learn-rate>0.0001</learn-rate>
 
 	</alg>
 
