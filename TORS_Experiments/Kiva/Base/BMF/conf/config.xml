@@ -35,24 +35,24 @@
 	<!-- ALGORITHM SECTION -->
     <alg ref="alg:biasedmf">
 		<similarity type="item">pcc</similarity> -->
-		<iterator-max>80</iterator-max>
+		<iterator-max>60</iterator-max>
         <num-factors type="discrete"><lower>20</lower><upper>150</upper></num-factors>
 		<user-reg><lower>0.0</lower><upper>0.2</upper></user-reg>
 		<bias-reg><lower>0.0</lower><upper>0.2</upper></bias-reg>
 	    	<item-reg><lower>0.0</lower><upper>0.2</upper></item-reg>
-	    	<learn-rate>0.0001</learn-rate>
+	    	<learn-rate>0.001</learn-rate>
 
 	</alg>
 
 	<!-- METRICS SECTION -->
 	<metric>
 		<ranking>true</ranking>
-		<list-size>20</list-size>
+		<list-size>50</list-size>
 		<class>ndcg</class>
 
 		<script src="system" lang="python3">
 		<script-name>ndcg_metric.py</script-name>
-		<param name="list_size">20</param>
+		<param name="list_size">50</param>
 		</script>
 	</metric>
 	
