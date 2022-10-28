@@ -41,6 +41,7 @@
 		<bias-reg><lower>0.0</lower><upper>0.2</upper></bias-reg>
 	    	<item-reg><lower>0.0</lower><upper>0.2</upper></item-reg>
 	    	<learn-rate>0.001</learn-rate>
+	    	<bold-driver>true</bold-driver>
 
 	</alg>
 
