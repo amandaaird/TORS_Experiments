@@ -41,18 +41,18 @@
 	<!-- METRICS SECTION -->
 	<metric>
 		<ranking>true</ranking>
-		<list-size>10</list-size>
+		<list-size>50</list-size>
 		<class>ndcg,psp</class>
 		<protected-feature ref="fea:loan_buck_5"/>
 
 		<script src="system" lang="python3">
 			<script-name>ndcg_metric.py</script-name>
-			<param name="list_size">10</param>
+			<param name="list_size">50</param>
 		</script>
 
 		<script src="system" lang="python3">
 			<script-name>psp.py</script-name>
-			<param name="list_size">10</param>
+			<param name="list_size">50</param>
 			<param name="protected_feature">loan_buck_5</param>
 		</script>
 	</metric>
