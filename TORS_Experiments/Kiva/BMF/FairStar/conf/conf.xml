@@ -77,7 +77,7 @@
 				<value>1</value>
 			</param>
 			<param name="binary">False</param>
-			<param name="protected_feature" ref="fea:short"/>
+			<param name="protected_feature" ref="fea:loan_buck_5"/>
 		</script>
 	</rerank>
 
