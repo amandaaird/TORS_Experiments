@@ -42,7 +42,7 @@
 	<!-- METRICS SECTION -->
 	<metric>
 		<ranking>true</ranking>
-		<list-size>10</list-size>
+		<list-size>50</list-size>
 		<class>ndcg,psp</class>
 		<protected-feature ref="fea:loan_buck_5"/>
 
