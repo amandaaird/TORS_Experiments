@@ -34,15 +34,14 @@
 		<save>true</save>
 	</splitter>
 
-    <alg ref="alg:biasedmf">
-		<similarity type="item">pcc</similarity> -->
+	<alg ref="alg:bpr">
 		<iterator-max>40</iterator-max>
-        <num-factors type="discrete"><lower>20</lower><upper>150</upper></num-factors>
-		<user-reg><lower>0.0</lower><upper>0.2</upper></user-reg>
-		<bias-reg><lower>0.0</lower><upper>0.2</upper></bias-reg>
-	    <item-reg><lower>0.0</lower><upper>0.2</upper></item-reg>
-	    <learn-rate>0.001</learn-rate>
-	    <bold-driver>true</bold-driver>
+		<user-reg><lower>0.001</lower><upper>0.8</upper></user-reg>
+		<item-reg><lower>0.001</lower><upper>0.8</upper></item-reg>
+		<num-factors type="discrete"><lower>20</lower><upper>150</upper></num-factors>
+		<learn-rate>0.01</learn-rate>
+		<bold-driver>true</bold-driver>
+        <learn-rate-max>0.1</learn-rate-max>
 	</alg>
 
 	<!-- METRICS SECTION -->
