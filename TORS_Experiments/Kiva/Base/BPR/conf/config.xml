@@ -53,7 +53,7 @@
         <metric>
 		<script src="system" lang="python3">
 			<script-name>ndcg_metric.py</script-name>
-			<param name="list_size">50</param>
+			<param name="list_size">10</param>
 		</script>
 	</metric>
 	
