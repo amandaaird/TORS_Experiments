@@ -33,15 +33,11 @@
 		<save>true</save>
 	</splitter>
 
-	<alg ref="alg:bpr">
-		<iterator-max>10</iterator-max>
-		<user-reg><lower>0.001</lower><upper>0.8</upper></user-reg>
-		<item-reg><lower>0.001</lower><upper>0.8</upper></item-reg>
-		<num-factors type="discrete"><lower>20</lower><upper>150</upper></num-factors>
-		<learn-rate>0.01</learn-rate>
-		<bold-driver>true</bold-driver>
-        <learn-rate-max>0.1</learn-rate-max>
-	</alg>
+        <alg ref="alg:slim">
+                <iterator-max>15</iterator-max>
+                <l1-reg><lower>0.5</lower><upper>2</upper></l1-reg>
+                <l2-reg><lower>0</lower><upper>2</upper></l2-reg>
+        </alg>
 
 	<!-- METRICS SECTION -->
 	<metric>
