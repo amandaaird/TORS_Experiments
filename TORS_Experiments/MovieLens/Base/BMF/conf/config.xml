@@ -40,7 +40,8 @@
 		<item-reg><lower>0</lower><upper>0.2</upper></item-reg>
 	    	<bias-reg><lower>0</lower><upper>0.2</upper></bias-reg>
         <num-factors type="discrete"><lower>20</lower><upper>150</upper></num-factors>
-
+		<bold-driver>true</bold-driver>
+	    	<learn-rate>0.001</learn-rate>
 	</alg>
 
 	<!-- METRICS SECTION -->
