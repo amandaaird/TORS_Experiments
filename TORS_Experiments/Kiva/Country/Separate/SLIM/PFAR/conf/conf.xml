@@ -27,37 +27,39 @@
 		<model count="5">kcv</model>
 		<save>true</save>
 	</splitter>
-	
-  	<optimize>
-		<iterations>50</iterations> 
-		<metric>ndcg_metric.py</metric>
-	</optimize>  
 
         <!-- ALGORITHM SECTION -->
         <alg ref="alg:slim">
                 <iterator-max>15</iterator-max>
-                <l1-reg><lower>0.5</lower><upper>2</upper></l1-reg>
-                <l2-reg><lower>0</lower><upper>2</upper></l2-reg>
+                <l1-reg>0.5017</l1-reg>
+                <l2-reg>1.2822</l2-reg>
         </alg>
 
         <!-- METRICS SECTION -->
-        <metric>
-                <ranking>true</ranking>
-                <list-size>50</list-size>
-                <class>ndcg</class>
-        
+<metric>
+		<ranking>true</ranking>
+		<list-size>50</list-size>
+		<class>ndcg,psp</class>
+		<protected-feature ref="fea:COUNTRY_low_pfr"/>
 
-                <script src="system" lang="python3">
-                <script-name>ndcg_metric.py</script-name>
-                <param name="list_size">10</param>
-                </script>
-        </metric>
+		<script src="system" lang="python3">
+			<script-name>ndcg_metric.py</script-name>
+			<param name="list_size">10</param>
+		</script>
+
+		<script src="system" lang="python3">
+			<script-name>psp.py</script-name>
+			<param name="list_size">10</param>
+			<param name="protected_feature">COUNTRY_low_pfr</param>
+		</script>
+	</metric>
   
 	  <rerank>
 		<script lang="python3" src="system">
 			<script-name>pfar_rerank.py</script-name>
 			<param name="max_len">10</param>
 			<param name="lambda">
+				<value>0.0</value>
 				<value>0.0</value>
                 <value>0.1</value>
 				<value>0.2</value>
