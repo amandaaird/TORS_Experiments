@@ -28,16 +28,12 @@
 		<save>true</save>
 	</splitter>
 	
-  	<optimize>
-		<iterations>50</iterations> 
-		<metric>ndcg_metric.py</metric>
-	</optimize>  
 
         <!-- ALGORITHM SECTION -->
         <alg ref="alg:slim">
                 <iterator-max>15</iterator-max>
-                <l1-reg><lower>0.5</lower><upper>2</upper></l1-reg>
-                <l2-reg><lower>0</lower><upper>2</upper></l2-reg>
+                <l1-reg>0.5017</l1-reg>
+                <l2-reg>1.2822</l2-reg>
         </alg>
 
         <!-- METRICS SECTION -->
