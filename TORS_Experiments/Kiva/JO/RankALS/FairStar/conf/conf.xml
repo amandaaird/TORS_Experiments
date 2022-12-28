@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!-- Configuration file for CIKM 2021 demo -->
+<!-- Part 01: Basic functionality -->
+<!-- Adapted from demo video demo due to recent software updates -->
+
+<librec-auto>
+	<random-seed>202110</random-seed>
+	<thread-count>1</thread-count>
+	<library src="system">default-algorithms.xml</library>
+	
+	<!-- DATA SECTION -->
+	<data>
+		<data-dir>../../data</data-dir>
+		<format>UIR</format>
+		<data-file format="text">rating_5000_cls_hc_10core_iterative.csv</data-file>
+	</data>
+	
+	<!-- FEATURES SECTION -->
+	<features>
+		<appender-class>net.librec.data.convertor.appender.ItemFeatureAppender</appender-class>
+		<item-feature-file>loan_feature_df_hc_10core.csv</item-feature-file>
+	</features> 
+	
+	<!-- SPLITTER SECTION -->
+	<splitter>
+		<model count="5">kcv</model>
+		<save>true</save>
+	</splitter>
+	
+  <optimize>
+		<iterations>50</iterations> 
+		<metric>ndcg_metric.py</metric>
+	</optimize>  
+	
+	<!-- ALGORITHM SECTION -->
+	<alg ref="alg:rankals">
+		<iterator-max>10</iterator-max>
+        <num-factors type="discrete">
+			<lower>1</lower>
+			<upper>100</upper>
+		</num-factors>
+	</alg>
+  
+  <metric>
+		<ranking>true</ranking>
+		<list-size>50</list-size>
+		<class>ndcg,psp</class>
+		<protected-feature ref="fea:loan_buck_5"/>
+
+		<script src="system" lang="python3">
+			<script-name>ndcg_metric.py</script-name>
+			<param name="list_size">10</param>
+		</script>
+
+		<script src="system" lang="python3">
+			<script-name>psp.py</script-name>
+			<param name="list_size">10</param>
+			<param name="protected_feature">loan_buck_5</param>
+		</script>
+	</metric>
+
+	<rerank>
+		<script lang="python3" src="system">
+			<script-name>fairstar_rerank.py</script-name>
+			<param name="max_len">10</param>
+			<param name="alpha">
+				<lower>0.01</lower><upper>1</upper>
+			</param>
+			<param name="binary">False</param>
+			<param name="protected_feature" ref="fea:loan_buck_5"/>
+		</script>
+	</rerank>
+
+	<!-- POST-PROCESSING SECTION -->
+
+	<post>
+		<script lang="python3" src="system">
+			<script-name>result_graphics.py</script-name>
+			<param name="browser">true</param>
+		</script>
+		<script lang="python3" src="system">
+			<script-name>results_to_csv.py</script-name>
+			<param name="option">all</param>
+		</script>
+	</post>
+</librec-auto>
