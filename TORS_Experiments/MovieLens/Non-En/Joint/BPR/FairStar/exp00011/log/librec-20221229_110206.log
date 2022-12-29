@@ -1,0 +1,33 @@
+22/12/29 11:02:06 INFO TextDataConvertor: Dataset: [../../../../data/ml_sample_6000.csv]
+22/12/29 11:02:07 INFO TextDataConvertor: DataSet: ../../../../data/ml_sample_6000.csv is finished
+22/12/29 11:02:07 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/29 11:02:07 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/29 11:02:07 INFO TextDataModel: Transform data to Convertor successfully!
+22/12/29 11:02:08 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/29 11:02:08 INFO TextDataModel: Feature appender loaded successfully!
+22/12/29 11:02:08 INFO RecommenderJob: SplitCMD: START - Splitting training and testing.
+22/12/29 11:02:09 INFO RecommenderJob: SplitCMD: Splitting training and testing with 0.8% ratio on fold 1.
+22/12/29 11:02:09 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/29 11:02:09 INFO TextDataModel: Data cardinality of training is 447256
+22/12/29 11:02:09 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/29 11:02:09 INFO RecommenderJob: SplitCMD: START - Splitting training and testing.
+22/12/29 11:02:09 INFO RecommenderJob: SplitCMD: Splitting training and testing with 0.8% ratio on fold 2.
+22/12/29 11:02:09 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/29 11:02:09 INFO TextDataModel: Data cardinality of training is 447256
+22/12/29 11:02:09 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/29 11:02:09 INFO RecommenderJob: SplitCMD: START - Splitting training and testing.
+22/12/29 11:02:09 INFO RecommenderJob: SplitCMD: Splitting training and testing with 0.8% ratio on fold 3.
+22/12/29 11:02:09 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/29 11:02:09 INFO TextDataModel: Data cardinality of training is 447256
+22/12/29 11:02:09 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/29 11:02:09 INFO RecommenderJob: SplitCMD: START - Splitting training and testing.
+22/12/29 11:02:09 INFO RecommenderJob: SplitCMD: Splitting training and testing with 0.8% ratio on fold 4.
+22/12/29 11:02:09 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/29 11:02:09 INFO TextDataModel: Data cardinality of training is 447256
+22/12/29 11:02:09 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/29 11:02:09 INFO RecommenderJob: SplitCMD: START - Splitting training and testing.
+22/12/29 11:02:10 INFO RecommenderJob: SplitCMD: Splitting training and testing with 0.8% ratio on fold 5.
+22/12/29 11:02:10 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/29 11:02:10 INFO TextDataModel: Data cardinality of training is 447256
+22/12/29 11:02:10 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/29 11:02:10 INFO RecommenderJob: Average Evaluation Result of Cross Validation:

@@ -1,0 +1,122 @@
+22/12/28 18:09:30 INFO TextDataConvertor: Dataset: [../../../../data/ml_sample_6000.csv]
+22/12/28 18:09:31 INFO TextDataConvertor: DataSet: ../../../../data/ml_sample_6000.csv is finished
+22/12/28 18:09:31 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 18:09:31 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:31 INFO TextDataModel: Transform data to Convertor successfully!
+22/12/28 18:09:33 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/28 18:09:33 INFO TextDataModel: Feature appender loaded successfully!
+22/12/28 18:09:33 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_1/train.txt]
+22/12/28 18:09:33 INFO TextDataConvertor: DataSet: .../../../../data/split/cv_1/train.txt is finished
+22/12/28 18:09:33 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 18:09:33 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:33 INFO TextDataModel: Transform data to Convertor successfully!
+22/12/28 18:09:33 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_1/test.txt]
+22/12/28 18:09:33 INFO TextDataConvertor: DataSet: ..../../../../data/split/cv_1/test.txt is finished
+22/12/28 18:09:33 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 18:09:33 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:34 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/28 18:09:34 INFO TextDataModel: Data cardinality of training is 447256
+22/12/28 18:09:34 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/28 18:09:34 INFO TextDataModel: Feature appender loaded successfully!
+22/12/28 18:09:34 INFO OracleAlgo: Job Setup completed.
+** Training model in OracleAlgo **
+22/12/28 18:09:34 INFO TextDataConvertor: Dataset: [exp00005/result/out-1.txt]
+22/12/28 18:09:34 INFO TextDataConvertor: DataSet: exp00005/result/out-1.txt is finished
+22/12/28 18:09:34 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:34 INFO OracleAlgo: Job Train completed.
+22/12/28 18:09:34 INFO OracleAlgo: begin recommend
+22/12/28 18:09:36 INFO OracleAlgo: end recommend
+22/12/28 18:09:36 INFO RecommenderJob: Evaluator info:NormalizedDCGEvaluator is 0.05766943528670687
+22/12/28 18:09:36 INFO RecommenderJob: Evaluator info:PStatisticalParityEvaluator is -0.557880366445182
+22/12/28 18:09:36 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_2/train.txt]
+22/12/28 18:09:36 INFO TextDataConvertor: DataSet: .../../../../data/split/cv_2/train.txt is finished
+22/12/28 18:09:36 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 18:09:36 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:36 INFO TextDataModel: Transform data to Convertor successfully!
+22/12/28 18:09:36 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_2/test.txt]
+22/12/28 18:09:36 INFO TextDataConvertor: DataSet: ..../../../../data/split/cv_2/test.txt is finished
+22/12/28 18:09:36 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 18:09:36 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:37 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/28 18:09:37 INFO TextDataModel: Data cardinality of training is 447256
+22/12/28 18:09:37 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/28 18:09:37 INFO TextDataModel: Feature appender loaded successfully!
+22/12/28 18:09:37 INFO OracleAlgo: Job Setup completed.
+** Training model in OracleAlgo **
+22/12/28 18:09:37 INFO TextDataConvertor: Dataset: [exp00005/result/out-2.txt]
+22/12/28 18:09:37 INFO TextDataConvertor: DataSet: exp00005/result/out-2.txt is finished
+22/12/28 18:09:37 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:37 INFO OracleAlgo: Job Train completed.
+22/12/28 18:09:37 INFO OracleAlgo: begin recommend
+22/12/28 18:09:38 INFO OracleAlgo: end recommend
+22/12/28 18:09:38 INFO RecommenderJob: Evaluator info:NormalizedDCGEvaluator is 0.055745012258043
+22/12/28 18:09:38 INFO RecommenderJob: Evaluator info:PStatisticalParityEvaluator is -0.5564745762712419
+22/12/28 18:09:38 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_3/train.txt]
+22/12/28 18:09:39 INFO TextDataConvertor: DataSet: .../../../../data/split/cv_3/train.txt is finished
+22/12/28 18:09:39 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 18:09:39 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:39 INFO TextDataModel: Transform data to Convertor successfully!
+22/12/28 18:09:39 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_3/test.txt]
+22/12/28 18:09:39 INFO TextDataConvertor: DataSet: ..../../../../data/split/cv_3/test.txt is finished
+22/12/28 18:09:39 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 18:09:39 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:39 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/28 18:09:39 INFO TextDataModel: Data cardinality of training is 447256
+22/12/28 18:09:39 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/28 18:09:39 INFO TextDataModel: Feature appender loaded successfully!
+22/12/28 18:09:39 INFO OracleAlgo: Job Setup completed.
+** Training model in OracleAlgo **
+22/12/28 18:09:39 INFO TextDataConvertor: Dataset: [exp00005/result/out-3.txt]
+22/12/28 18:09:39 INFO TextDataConvertor: DataSet: exp00005/result/out-3.txt is finished
+22/12/28 18:09:39 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:39 INFO OracleAlgo: Job Train completed.
+22/12/28 18:09:39 INFO OracleAlgo: begin recommend
+22/12/28 18:09:41 INFO OracleAlgo: end recommend
+22/12/28 18:09:41 INFO RecommenderJob: Evaluator info:NormalizedDCGEvaluator is 0.053085004390415136
+22/12/28 18:09:41 INFO RecommenderJob: Evaluator info:PStatisticalParityEvaluator is -0.530023235031346
+22/12/28 18:09:41 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_4/train.txt]
+22/12/28 18:09:41 INFO TextDataConvertor: DataSet: .../../../../data/split/cv_4/train.txt is finished
+22/12/28 18:09:41 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 18:09:41 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:41 INFO TextDataModel: Transform data to Convertor successfully!
+22/12/28 18:09:41 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_4/test.txt]
+22/12/28 18:09:41 INFO TextDataConvertor: DataSet: ..../../../../data/split/cv_4/test.txt is finished
+22/12/28 18:09:41 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 18:09:41 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:41 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/28 18:09:41 INFO TextDataModel: Data cardinality of training is 447256
+22/12/28 18:09:41 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/28 18:09:41 INFO TextDataModel: Feature appender loaded successfully!
+22/12/28 18:09:41 INFO OracleAlgo: Job Setup completed.
+** Training model in OracleAlgo **
+22/12/28 18:09:41 INFO TextDataConvertor: Dataset: [exp00005/result/out-4.txt]
+22/12/28 18:09:41 INFO TextDataConvertor: DataSet: exp00005/result/out-4.txt is finished
+22/12/28 18:09:41 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:42 INFO OracleAlgo: Job Train completed.
+22/12/28 18:09:42 INFO OracleAlgo: begin recommend
+22/12/28 18:09:43 INFO OracleAlgo: end recommend
+22/12/28 18:09:43 INFO RecommenderJob: Evaluator info:NormalizedDCGEvaluator is 0.055833617500000855
+22/12/28 18:09:43 INFO RecommenderJob: Evaluator info:PStatisticalParityEvaluator is -0.5577171572147036
+22/12/28 18:09:43 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_5/train.txt]
+22/12/28 18:09:43 INFO TextDataConvertor: DataSet: .../../../../data/split/cv_5/train.txt is finished
+22/12/28 18:09:43 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 18:09:43 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:43 INFO TextDataModel: Transform data to Convertor successfully!
+22/12/28 18:09:43 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_5/test.txt]
+22/12/28 18:09:43 INFO TextDataConvertor: DataSet: ..../../../../data/split/cv_5/test.txt is finished
+22/12/28 18:09:43 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 18:09:43 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:44 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/28 18:09:44 INFO TextDataModel: Data cardinality of training is 447256
+22/12/28 18:09:44 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/28 18:09:44 INFO TextDataModel: Feature appender loaded successfully!
+22/12/28 18:09:44 INFO OracleAlgo: Job Setup completed.
+** Training model in OracleAlgo **
+22/12/28 18:09:44 INFO TextDataConvertor: Dataset: [exp00005/result/out-5.txt]
+22/12/28 18:09:44 INFO TextDataConvertor: DataSet: exp00005/result/out-5.txt is finished
+22/12/28 18:09:44 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 18:09:44 INFO OracleAlgo: Job Train completed.
+22/12/28 18:09:44 INFO OracleAlgo: begin recommend
+22/12/28 18:09:45 INFO OracleAlgo: end recommend
+22/12/28 18:09:45 INFO RecommenderJob: Evaluator info:NormalizedDCGEvaluator is 0.05112997218796342
+22/12/28 18:09:45 INFO RecommenderJob: Evaluator info:PStatisticalParityEvaluator is -0.5577392237525189

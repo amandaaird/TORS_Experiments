@@ -1,0 +1,387 @@
+22/12/28 15:33:05 INFO TextDataConvertor: Dataset: [../../../../data/ml_sample_6000.csv]
+22/12/28 15:33:06 INFO TextDataConvertor: DataSet: ../../../../data/ml_sample_6000.csv is finished
+22/12/28 15:33:06 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 15:33:06 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 15:33:06 INFO TextDataModel: Transform data to Convertor successfully!
+22/12/28 15:33:07 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/28 15:33:07 INFO TextDataModel: Feature appender loaded successfully!
+22/12/28 15:33:07 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_1/train.txt]
+22/12/28 15:33:08 INFO TextDataConvertor: DataSet: .../../../../data/split/cv_1/train.txt is finished
+22/12/28 15:33:08 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 15:33:08 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 15:33:08 INFO TextDataModel: Transform data to Convertor successfully!
+22/12/28 15:33:08 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_1/test.txt]
+22/12/28 15:33:08 INFO TextDataConvertor: DataSet: ..../../../../data/split/cv_1/test.txt is finished
+22/12/28 15:33:08 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 15:33:08 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 15:33:08 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/28 15:33:08 INFO TextDataModel: Data cardinality of training is 447256
+22/12/28 15:33:08 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/28 15:33:08 INFO TextDataModel: Feature appender loaded successfully!
+22/12/28 15:33:08 INFO RecommenderJob: ExpCMD: START - Executing recommender job on 1.
+22/12/28 15:33:08 INFO BPRRecommender: Job Setup completed.
+22/12/28 15:33:09 INFO BPRRecommender: BPRRecommender iter 1: loss = 310063.58091298625, delta_loss = -310063.6
+22/12/28 15:33:10 INFO BPRRecommender: BPRRecommender iter 2: loss = 310040.7349317409, delta_loss = 22.845982
+22/12/28 15:33:10 INFO BPRRecommender: BPRRecommender iter 3: loss = 310030.7415565809, delta_loss = 9.993375
+22/12/28 15:33:11 INFO BPRRecommender: BPRRecommender iter 4: loss = 310024.6701537669, delta_loss = 6.071403
+22/12/28 15:33:11 INFO BPRRecommender: BPRRecommender iter 5: loss = 310020.84616789944, delta_loss = 3.8239858
+22/12/28 15:33:12 INFO BPRRecommender: BPRRecommender iter 6: loss = 310018.41704755696, delta_loss = 2.4291203
+22/12/28 15:33:12 INFO BPRRecommender: BPRRecommender iter 7: loss = 310016.8791618977, delta_loss = 1.5378857
+22/12/28 15:33:13 INFO BPRRecommender: BPRRecommender iter 8: loss = 310015.908844312, delta_loss = 0.9703176
+22/12/28 15:33:13 INFO BPRRecommender: BPRRecommender iter 9: loss = 310015.2987354814, delta_loss = 0.61010885
+22/12/28 15:33:14 INFO BPRRecommender: BPRRecommender iter 10: loss = 310014.9187633416, delta_loss = 0.37997213
+22/12/28 15:33:14 INFO BPRRecommender: BPRRecommender iter 11: loss = 310014.6898252509, delta_loss = 0.22893809
+22/12/28 15:33:16 INFO BPRRecommender: BPRRecommender iter 12: loss = 310014.55197077367, delta_loss = 0.13785447
+22/12/28 15:33:17 INFO BPRRecommender: BPRRecommender iter 13: loss = 310014.47433359124, delta_loss = 0.07763718
+22/12/28 15:33:18 INFO BPRRecommender: BPRRecommender iter 14: loss = 310014.4447173066, delta_loss = 0.029616285
+22/12/28 15:33:19 INFO BPRRecommender: BPRRecommender iter 15: loss = 310014.45434192877, delta_loss = -0.009624622
+22/12/28 15:33:19 INFO BPRRecommender: BPRRecommender iter 16: loss = 310014.4870442119, delta_loss = -0.032702282
+22/12/28 15:33:19 INFO BPRRecommender: BPRRecommender iter 17: loss = 310014.50997043576, delta_loss = -0.022926224
+22/12/28 15:33:20 INFO BPRRecommender: BPRRecommender iter 18: loss = 310014.5270189123, delta_loss = -0.017048476
+22/12/28 15:33:20 INFO BPRRecommender: BPRRecommender iter 19: loss = 310014.5341011031, delta_loss = -0.007082191
+22/12/28 15:33:21 INFO BPRRecommender: BPRRecommender iter 20: loss = 310014.54005931254, delta_loss = -0.0059582093
+22/12/28 15:33:21 INFO BPRRecommender: BPRRecommender iter 21: loss = 310014.5439097932, delta_loss = -0.0038504805
+22/12/28 15:33:22 INFO BPRRecommender: BPRRecommender iter 22: loss = 310014.5421759216, delta_loss = 0.0017338716
+22/12/28 15:33:22 INFO BPRRecommender: BPRRecommender iter 23: loss = 310014.54484483536, delta_loss = -0.0026689137
+22/12/28 15:33:23 INFO BPRRecommender: BPRRecommender iter 24: loss = 310014.54428486526, delta_loss = 5.599701E-4
+22/12/28 15:33:23 INFO BPRRecommender: BPRRecommender iter 25: loss = 310014.5456918131, delta_loss = -0.0014069478
+22/12/28 15:33:24 INFO BPRRecommender: BPRRecommender iter 26: loss = 310014.54681338096, delta_loss = -0.0011215678
+22/12/28 15:33:24 INFO BPRRecommender: BPRRecommender iter 27: loss = 310014.544906771, delta_loss = 0.00190661
+22/12/28 15:33:25 INFO BPRRecommender: BPRRecommender iter 28: loss = 310014.5463746047, delta_loss = -0.0014678338
+22/12/28 15:33:25 INFO BPRRecommender: BPRRecommender iter 29: loss = 310014.54596063076, delta_loss = 4.1397393E-4
+22/12/28 15:33:25 INFO BPRRecommender: BPRRecommender iter 30: loss = 310014.5472398883, delta_loss = -0.0012792575
+22/12/28 15:33:26 INFO BPRRecommender: BPRRecommender iter 31: loss = 310014.54879021656, delta_loss = -0.0015503282
+22/12/28 15:33:26 INFO BPRRecommender: BPRRecommender iter 32: loss = 310014.544807574, delta_loss = 0.0039826427
+22/12/28 15:33:27 INFO BPRRecommender: BPRRecommender iter 33: loss = 310014.5458935187, delta_loss = -0.0010859447
+22/12/28 15:33:27 INFO BPRRecommender: BPRRecommender iter 34: loss = 310014.5452346427, delta_loss = 6.5887603E-4
+22/12/28 15:33:28 INFO BPRRecommender: BPRRecommender iter 35: loss = 310014.5458950415, delta_loss = -6.603988E-4
+22/12/28 15:33:28 INFO BPRRecommender: BPRRecommender iter 36: loss = 310014.546882097, delta_loss = -9.870555E-4
+22/12/28 15:33:29 INFO BPRRecommender: BPRRecommender iter 37: loss = 310014.5447330185, delta_loss = 0.0021490785
+22/12/28 15:33:29 INFO BPRRecommender: BPRRecommender iter 38: loss = 310014.5462888457, delta_loss = -0.0015558272
+22/12/28 15:33:30 INFO BPRRecommender: BPRRecommender iter 39: loss = 310014.54570016084, delta_loss = 5.8868487E-4
+22/12/28 15:33:31 INFO BPRRecommender: BPRRecommender iter 40: loss = 310014.5449485529, delta_loss = 7.5160793E-4
+22/12/28 15:33:33 INFO BPRRecommender: BPRRecommender iter 41: loss = 310014.54622870596, delta_loss = -0.001280153
+22/12/28 15:33:34 INFO BPRRecommender: BPRRecommender iter 42: loss = 310014.5455865917, delta_loss = 6.4211426E-4
+22/12/28 15:33:34 INFO BPRRecommender: BPRRecommender iter 43: loss = 310014.5447817598, delta_loss = 8.048319E-4
+22/12/28 15:33:34 INFO BPRRecommender: BPRRecommender iter 44: loss = 310014.5439167592, delta_loss = 8.650006E-4
+22/12/28 15:33:35 INFO BPRRecommender: BPRRecommender iter 45: loss = 310014.5462618539, delta_loss = -0.0023450947
+22/12/28 15:33:35 INFO BPRRecommender: BPRRecommender iter 46: loss = 310014.54670775024, delta_loss = -4.4589635E-4
+22/12/28 15:33:36 INFO BPRRecommender: BPRRecommender iter 47: loss = 310014.5472557637, delta_loss = -5.480135E-4
+22/12/28 15:33:36 INFO BPRRecommender: BPRRecommender iter 48: loss = 310014.54721992096, delta_loss = 3.5842764E-5
+22/12/28 15:33:37 INFO BPRRecommender: BPRRecommender iter 49: loss = 310014.54734928976, delta_loss = -1.293688E-4
+22/12/28 15:33:37 INFO BPRRecommender: BPRRecommender iter 50: loss = 310014.546549749, delta_loss = 7.995408E-4
+22/12/28 15:33:37 INFO BPRRecommender: Job Train completed.
+22/12/28 15:33:37 INFO RecommenderJob: ExpCMD: COMPLETE
+22/12/28 15:33:37 INFO RecommenderJob: EvalCMD: START
+22/12/28 15:33:37 INFO BPRRecommender: begin recommend
+22/12/28 15:33:40 INFO BPRRecommender: end recommend
+22/12/28 15:33:40 INFO RecommenderJob: Evaluator info:NormalizedDCGEvaluator is 0.10230360882972568
+22/12/28 15:33:40 INFO RecommenderJob: Evaluator info:PStatisticalParityEvaluator is -0.6473576432549515
+22/12/28 15:33:40 INFO BPRRecommender: begin recommend
+22/12/28 15:33:43 INFO BPRRecommender: end recommend
+22/12/28 15:33:43 INFO RecommenderJob: Result path is exp00003/result/out-1.txt
+22/12/28 15:33:44 INFO RecommenderJob: EvalCMD: COMPLETE.
+22/12/28 15:33:44 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_2/train.txt]
+22/12/28 15:33:44 INFO TextDataConvertor: DataSet: .../../../../data/split/cv_2/train.txt is finished
+22/12/28 15:33:44 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 15:33:44 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 15:33:44 INFO TextDataModel: Transform data to Convertor successfully!
+22/12/28 15:33:44 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_2/test.txt]
+22/12/28 15:33:44 INFO TextDataConvertor: DataSet: ..../../../../data/split/cv_2/test.txt is finished
+22/12/28 15:33:44 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 15:33:44 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 15:33:44 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/28 15:33:44 INFO TextDataModel: Data cardinality of training is 447256
+22/12/28 15:33:44 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/28 15:33:44 INFO TextDataModel: Feature appender loaded successfully!
+22/12/28 15:33:44 INFO RecommenderJob: ExpCMD: START - Executing recommender job on 2.
+22/12/28 15:33:44 INFO BPRRecommender: Job Setup completed.
+22/12/28 15:33:45 INFO BPRRecommender: BPRRecommender iter 1: loss = 310063.522584934, delta_loss = -310063.53
+22/12/28 15:33:46 INFO BPRRecommender: BPRRecommender iter 2: loss = 310040.75341535435, delta_loss = 22.769169
+22/12/28 15:33:46 INFO BPRRecommender: BPRRecommender iter 3: loss = 310030.7318527548, delta_loss = 10.021563
+22/12/28 15:33:47 INFO BPRRecommender: BPRRecommender iter 4: loss = 310024.66959785164, delta_loss = 6.062255
+22/12/28 15:33:47 INFO BPRRecommender: BPRRecommender iter 5: loss = 310020.8418022298, delta_loss = 3.8277955
+22/12/28 15:33:48 INFO BPRRecommender: BPRRecommender iter 6: loss = 310018.41587437096, delta_loss = 2.4259279
+22/12/28 15:33:49 INFO BPRRecommender: BPRRecommender iter 7: loss = 310016.88085106015, delta_loss = 1.5350233
+22/12/28 15:33:51 INFO BPRRecommender: BPRRecommender iter 8: loss = 310015.9135187406, delta_loss = 0.9673323
+22/12/28 15:33:51 INFO BPRRecommender: BPRRecommender iter 9: loss = 310015.30352900585, delta_loss = 0.60998976
+22/12/28 15:33:52 INFO BPRRecommender: BPRRecommender iter 10: loss = 310014.9266775987, delta_loss = 0.3768514
+22/12/28 15:33:52 INFO BPRRecommender: BPRRecommender iter 11: loss = 310014.6967867145, delta_loss = 0.22989088
+22/12/28 15:33:53 INFO BPRRecommender: BPRRecommender iter 12: loss = 310014.5625753748, delta_loss = 0.13421135
+22/12/28 15:33:53 INFO BPRRecommender: BPRRecommender iter 13: loss = 310014.4932484548, delta_loss = 0.06932692
+22/12/28 15:33:54 INFO BPRRecommender: BPRRecommender iter 14: loss = 310014.4713364941, delta_loss = 0.02191196
+22/12/28 15:33:54 INFO BPRRecommender: BPRRecommender iter 15: loss = 310014.4956735373, delta_loss = -0.024337044
+22/12/28 15:33:55 INFO BPRRecommender: BPRRecommender iter 16: loss = 310014.54350471223, delta_loss = -0.047831174
+22/12/28 15:33:55 INFO BPRRecommender: BPRRecommender iter 17: loss = 310014.579061887, delta_loss = -0.035557173
+22/12/28 15:33:56 INFO BPRRecommender: BPRRecommender iter 18: loss = 310014.5994327674, delta_loss = -0.02037088
+22/12/28 15:33:56 INFO BPRRecommender: BPRRecommender iter 19: loss = 310014.61083705246, delta_loss = -0.011404285
+22/12/28 15:33:57 INFO BPRRecommender: BPRRecommender iter 20: loss = 310014.61878478795, delta_loss = -0.0079477355
+22/12/28 15:33:57 INFO BPRRecommender: BPRRecommender iter 21: loss = 310014.62042924686, delta_loss = -0.0016444589
+22/12/28 15:33:58 INFO BPRRecommender: BPRRecommender iter 22: loss = 310014.62585607433, delta_loss = -0.0054268274
+22/12/28 15:33:58 INFO BPRRecommender: BPRRecommender iter 23: loss = 310014.62310621113, delta_loss = 0.002749863
+22/12/28 15:33:59 INFO BPRRecommender: BPRRecommender iter 24: loss = 310014.6239395551, delta_loss = -8.3334395E-4
+22/12/28 15:33:59 INFO BPRRecommender: BPRRecommender iter 25: loss = 310014.6254384253, delta_loss = -0.0014988702
+22/12/28 15:34:00 INFO BPRRecommender: BPRRecommender iter 26: loss = 310014.6268346607, delta_loss = -0.0013962354
+22/12/28 15:34:00 INFO BPRRecommender: BPRRecommender iter 27: loss = 310014.62444065977, delta_loss = 0.002394001
+22/12/28 15:34:01 INFO BPRRecommender: BPRRecommender iter 28: loss = 310014.62536123605, delta_loss = -9.205763E-4
+22/12/28 15:34:01 INFO BPRRecommender: BPRRecommender iter 29: loss = 310014.62485524546, delta_loss = 5.059906E-4
+22/12/28 15:34:02 INFO BPRRecommender: BPRRecommender iter 30: loss = 310014.6259447339, delta_loss = -0.0010894884
+22/12/28 15:34:02 INFO BPRRecommender: BPRRecommender iter 31: loss = 310014.6263887392, delta_loss = -4.440053E-4
+22/12/28 15:34:03 INFO BPRRecommender: BPRRecommender iter 32: loss = 310014.62683719833, delta_loss = -4.4845912E-4
+22/12/28 15:34:03 INFO BPRRecommender: BPRRecommender iter 33: loss = 310014.6260270755, delta_loss = 8.101228E-4
+22/12/28 15:34:04 INFO BPRRecommender: BPRRecommender iter 34: loss = 310014.62553560996, delta_loss = 4.9146556E-4
+22/12/28 15:34:04 INFO BPRRecommender: BPRRecommender iter 35: loss = 310014.6260800808, delta_loss = -5.4447085E-4
+22/12/28 15:34:05 INFO BPRRecommender: BPRRecommender iter 36: loss = 310014.6255252021, delta_loss = 5.5487873E-4
+22/12/28 15:34:05 INFO BPRRecommender: BPRRecommender iter 37: loss = 310014.6271112101, delta_loss = -0.001586008
+22/12/28 15:34:05 INFO BPRRecommender: BPRRecommender iter 38: loss = 310014.6247643953, delta_loss = 0.0023468148
+22/12/28 15:34:06 INFO BPRRecommender: BPRRecommender iter 39: loss = 310014.6254943161, delta_loss = -7.299208E-4
+22/12/28 15:34:06 INFO BPRRecommender: BPRRecommender iter 40: loss = 310014.62481873523, delta_loss = 6.755809E-4
+22/12/28 15:34:07 INFO BPRRecommender: BPRRecommender iter 41: loss = 310014.6255768868, delta_loss = -7.581516E-4
+22/12/28 15:34:07 INFO BPRRecommender: BPRRecommender iter 42: loss = 310014.6252296944, delta_loss = 3.471924E-4
+22/12/28 15:34:08 INFO BPRRecommender: BPRRecommender iter 43: loss = 310014.6272203713, delta_loss = -0.0019906769
+22/12/28 15:34:09 INFO BPRRecommender: BPRRecommender iter 44: loss = 310014.626723297, delta_loss = 4.970743E-4
+22/12/28 15:34:09 INFO BPRRecommender: BPRRecommender iter 45: loss = 310014.6290323566, delta_loss = -0.0023090597
+22/12/28 15:34:10 INFO BPRRecommender: BPRRecommender iter 46: loss = 310014.6252399135, delta_loss = 0.003792443
+22/12/28 15:34:10 INFO BPRRecommender: BPRRecommender iter 47: loss = 310014.6248866403, delta_loss = 3.5327324E-4
+22/12/28 15:34:11 INFO BPRRecommender: BPRRecommender iter 48: loss = 310014.6265726829, delta_loss = -0.0016860426
+22/12/28 15:34:11 INFO BPRRecommender: BPRRecommender iter 49: loss = 310014.62523063284, delta_loss = 0.00134205
+22/12/28 15:34:11 INFO BPRRecommender: BPRRecommender iter 50: loss = 310014.62399438804, delta_loss = 0.0012362448
+22/12/28 15:34:11 INFO BPRRecommender: Job Train completed.
+22/12/28 15:34:11 INFO RecommenderJob: ExpCMD: COMPLETE
+22/12/28 15:34:11 INFO RecommenderJob: EvalCMD: START
+22/12/28 15:34:11 INFO BPRRecommender: begin recommend
+22/12/28 15:34:14 INFO BPRRecommender: end recommend
+22/12/28 15:34:14 INFO RecommenderJob: Evaluator info:NormalizedDCGEvaluator is 0.10293172733281071
+22/12/28 15:34:14 INFO RecommenderJob: Evaluator info:PStatisticalParityEvaluator is -0.6444246208742778
+22/12/28 15:34:14 INFO BPRRecommender: begin recommend
+22/12/28 15:34:17 INFO BPRRecommender: end recommend
+22/12/28 15:34:17 INFO RecommenderJob: Result path is exp00003/result/out-2.txt
+22/12/28 15:34:17 INFO RecommenderJob: EvalCMD: COMPLETE.
+22/12/28 15:34:17 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_3/train.txt]
+22/12/28 15:34:17 INFO TextDataConvertor: DataSet: .../../../../data/split/cv_3/train.txt is finished
+22/12/28 15:34:17 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 15:34:17 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 15:34:17 INFO TextDataModel: Transform data to Convertor successfully!
+22/12/28 15:34:17 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_3/test.txt]
+22/12/28 15:34:17 INFO TextDataConvertor: DataSet: ..../../../../data/split/cv_3/test.txt is finished
+22/12/28 15:34:17 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 15:34:17 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 15:34:18 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/28 15:34:18 INFO TextDataModel: Data cardinality of training is 447256
+22/12/28 15:34:18 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/28 15:34:18 INFO TextDataModel: Feature appender loaded successfully!
+22/12/28 15:34:18 INFO RecommenderJob: ExpCMD: START - Executing recommender job on 3.
+22/12/28 15:34:18 INFO BPRRecommender: Job Setup completed.
+22/12/28 15:34:18 INFO BPRRecommender: BPRRecommender iter 1: loss = 310063.46504655195, delta_loss = -310063.47
+22/12/28 15:34:19 INFO BPRRecommender: BPRRecommender iter 2: loss = 310040.6685274378, delta_loss = 22.796518
+22/12/28 15:34:19 INFO BPRRecommender: BPRRecommender iter 3: loss = 310030.7017506493, delta_loss = 9.966777
+22/12/28 15:34:20 INFO BPRRecommender: BPRRecommender iter 4: loss = 310024.6479608208, delta_loss = 6.0537896
+22/12/28 15:34:20 INFO BPRRecommender: BPRRecommender iter 5: loss = 310020.834271397, delta_loss = 3.8136895
+22/12/28 15:34:21 INFO BPRRecommender: BPRRecommender iter 6: loss = 310018.41888516676, delta_loss = 2.4153862
+22/12/28 15:34:21 INFO BPRRecommender: BPRRecommender iter 7: loss = 310016.8810103272, delta_loss = 1.5378748
+22/12/28 15:34:22 INFO BPRRecommender: BPRRecommender iter 8: loss = 310015.91261905164, delta_loss = 0.9683913
+22/12/28 15:34:22 INFO BPRRecommender: BPRRecommender iter 9: loss = 310015.302817407, delta_loss = 0.60980165
+22/12/28 15:34:23 INFO BPRRecommender: BPRRecommender iter 10: loss = 310014.9292165236, delta_loss = 0.37360087
+22/12/28 15:34:23 INFO BPRRecommender: BPRRecommender iter 11: loss = 310014.6974433439, delta_loss = 0.23177318
+22/12/28 15:34:24 INFO BPRRecommender: BPRRecommender iter 12: loss = 310014.5614939273, delta_loss = 0.13594942
+22/12/28 15:34:24 INFO BPRRecommender: BPRRecommender iter 13: loss = 310014.4904220057, delta_loss = 0.07107192
+22/12/28 15:34:25 INFO BPRRecommender: BPRRecommender iter 14: loss = 310014.4648482062, delta_loss = 0.0255738
+22/12/28 15:34:25 INFO BPRRecommender: BPRRecommender iter 15: loss = 310014.48345674196, delta_loss = -0.018608537
+22/12/28 15:34:26 INFO BPRRecommender: BPRRecommender iter 16: loss = 310014.52343293646, delta_loss = -0.039976195
+22/12/28 15:34:26 INFO BPRRecommender: BPRRecommender iter 17: loss = 310014.55229932105, delta_loss = -0.028866384
+22/12/28 15:34:27 INFO BPRRecommender: BPRRecommender iter 18: loss = 310014.5703332394, delta_loss = -0.018033918
+22/12/28 15:34:27 INFO BPRRecommender: BPRRecommender iter 19: loss = 310014.57961953623, delta_loss = -0.009286297
+22/12/28 15:34:28 INFO BPRRecommender: BPRRecommender iter 20: loss = 310014.5834964825, delta_loss = -0.0038769464
+22/12/28 15:34:28 INFO BPRRecommender: BPRRecommender iter 21: loss = 310014.58800376684, delta_loss = -0.004507284
+22/12/28 15:34:29 INFO BPRRecommender: BPRRecommender iter 22: loss = 310014.58865499095, delta_loss = -6.512241E-4
+22/12/28 15:34:29 INFO BPRRecommender: BPRRecommender iter 23: loss = 310014.5916669868, delta_loss = -0.003011996
+22/12/28 15:34:30 INFO BPRRecommender: BPRRecommender iter 24: loss = 310014.59153293347, delta_loss = 1.3405335E-4
+22/12/28 15:34:30 INFO BPRRecommender: BPRRecommender iter 25: loss = 310014.5906247619, delta_loss = 9.081716E-4
+22/12/28 15:34:31 INFO BPRRecommender: BPRRecommender iter 26: loss = 310014.59331166086, delta_loss = -0.002686899
+22/12/28 15:34:31 INFO BPRRecommender: BPRRecommender iter 27: loss = 310014.5898238847, delta_loss = 0.003487776
+22/12/28 15:34:32 INFO BPRRecommender: BPRRecommender iter 28: loss = 310014.5911098501, delta_loss = -0.0012859653
+22/12/28 15:34:32 INFO BPRRecommender: BPRRecommender iter 29: loss = 310014.5914992916, delta_loss = -3.894415E-4
+22/12/28 15:34:32 INFO BPRRecommender: BPRRecommender iter 30: loss = 310014.58876860637, delta_loss = 0.0027306853
+22/12/28 15:34:33 INFO BPRRecommender: BPRRecommender iter 31: loss = 310014.5888943104, delta_loss = -1.2570404E-4
+22/12/28 15:34:33 INFO BPRRecommender: BPRRecommender iter 32: loss = 310014.59159856127, delta_loss = -0.0027042509
+22/12/28 15:34:34 INFO BPRRecommender: BPRRecommender iter 33: loss = 310014.59110423335, delta_loss = 4.943279E-4
+22/12/28 15:34:34 INFO BPRRecommender: BPRRecommender iter 34: loss = 310014.5902329746, delta_loss = 8.7125873E-4
+22/12/28 15:34:35 INFO BPRRecommender: BPRRecommender iter 35: loss = 310014.5913511544, delta_loss = -0.0011181798
+22/12/28 15:34:35 INFO BPRRecommender: BPRRecommender iter 36: loss = 310014.592644274, delta_loss = -0.0012931196
+22/12/28 15:34:36 INFO BPRRecommender: BPRRecommender iter 37: loss = 310014.59175515804, delta_loss = 8.8911597E-4
+22/12/28 15:34:36 INFO BPRRecommender: BPRRecommender iter 38: loss = 310014.5927905636, delta_loss = -0.0010354056
+22/12/28 15:34:37 INFO BPRRecommender: BPRRecommender iter 39: loss = 310014.59140122915, delta_loss = 0.0013893344
+22/12/28 15:34:37 INFO BPRRecommender: BPRRecommender iter 40: loss = 310014.58987491677, delta_loss = 0.0015263124
+22/12/28 15:34:38 INFO BPRRecommender: BPRRecommender iter 41: loss = 310014.59069053264, delta_loss = -8.156159E-4
+22/12/28 15:34:38 INFO BPRRecommender: BPRRecommender iter 42: loss = 310014.589939687, delta_loss = 7.5084565E-4
+22/12/28 15:34:39 INFO BPRRecommender: BPRRecommender iter 43: loss = 310014.591561649, delta_loss = -0.0016219621
+22/12/28 15:34:39 INFO BPRRecommender: BPRRecommender iter 44: loss = 310014.5906045831, delta_loss = 9.570659E-4
+22/12/28 15:34:40 INFO BPRRecommender: BPRRecommender iter 45: loss = 310014.5925467284, delta_loss = -0.0019421453
+22/12/28 15:34:40 INFO BPRRecommender: BPRRecommender iter 46: loss = 310014.5931250249, delta_loss = -5.7829655E-4
+22/12/28 15:34:41 INFO BPRRecommender: BPRRecommender iter 47: loss = 310014.591794798, delta_loss = 0.0013302269
+22/12/28 15:34:41 INFO BPRRecommender: BPRRecommender iter 48: loss = 310014.5883132771, delta_loss = 0.0034815208
+22/12/28 15:34:42 INFO BPRRecommender: BPRRecommender iter 49: loss = 310014.5909602028, delta_loss = -0.0026469256
+22/12/28 15:34:42 INFO BPRRecommender: BPRRecommender iter 50: loss = 310014.5915735289, delta_loss = -6.133261E-4
+22/12/28 15:34:42 INFO BPRRecommender: Job Train completed.
+22/12/28 15:34:42 INFO RecommenderJob: ExpCMD: COMPLETE
+22/12/28 15:34:42 INFO RecommenderJob: EvalCMD: START
+22/12/28 15:34:42 INFO BPRRecommender: begin recommend
+22/12/28 15:34:45 INFO BPRRecommender: end recommend
+22/12/28 15:34:45 INFO RecommenderJob: Evaluator info:NormalizedDCGEvaluator is 0.10194078201071755
+22/12/28 15:34:45 INFO RecommenderJob: Evaluator info:PStatisticalParityEvaluator is -0.6311134941913012
+22/12/28 15:34:45 INFO BPRRecommender: begin recommend
+22/12/28 15:34:48 INFO BPRRecommender: end recommend
+22/12/28 15:34:48 INFO RecommenderJob: Result path is exp00003/result/out-3.txt
+22/12/28 15:34:48 INFO RecommenderJob: EvalCMD: COMPLETE.
+22/12/28 15:34:48 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_4/train.txt]
+22/12/28 15:34:48 INFO TextDataConvertor: DataSet: .../../../../data/split/cv_4/train.txt is finished
+22/12/28 15:34:48 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 15:34:48 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 15:34:48 INFO TextDataModel: Transform data to Convertor successfully!
+22/12/28 15:34:48 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_4/test.txt]
+22/12/28 15:34:48 INFO TextDataConvertor: DataSet: ..../../../../data/split/cv_4/test.txt is finished
+22/12/28 15:34:48 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 15:34:48 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 15:34:48 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/28 15:34:48 INFO TextDataModel: Data cardinality of training is 447256
+22/12/28 15:34:48 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/28 15:34:48 INFO TextDataModel: Feature appender loaded successfully!
+22/12/28 15:34:48 INFO RecommenderJob: ExpCMD: START - Executing recommender job on 4.
+22/12/28 15:34:49 INFO BPRRecommender: Job Setup completed.
+22/12/28 15:34:49 INFO BPRRecommender: BPRRecommender iter 1: loss = 310063.5022462364, delta_loss = -310063.5
+22/12/28 15:34:50 INFO BPRRecommender: BPRRecommender iter 2: loss = 310040.67429880134, delta_loss = 22.827948
+22/12/28 15:34:50 INFO BPRRecommender: BPRRecommender iter 3: loss = 310030.69529096497, delta_loss = 9.979008
+22/12/28 15:34:51 INFO BPRRecommender: BPRRecommender iter 4: loss = 310024.63341624814, delta_loss = 6.061875
+22/12/28 15:34:52 INFO BPRRecommender: BPRRecommender iter 5: loss = 310020.81847328984, delta_loss = 3.814943
+22/12/28 15:34:52 INFO BPRRecommender: BPRRecommender iter 6: loss = 310018.39668936323, delta_loss = 2.421784
+22/12/28 15:34:53 INFO BPRRecommender: BPRRecommender iter 7: loss = 310016.85921247926, delta_loss = 1.5374769
+22/12/28 15:34:53 INFO BPRRecommender: BPRRecommender iter 8: loss = 310015.8933299776, delta_loss = 0.9658825
+22/12/28 15:34:54 INFO BPRRecommender: BPRRecommender iter 9: loss = 310015.2860425816, delta_loss = 0.6072874
+22/12/28 15:34:54 INFO BPRRecommender: BPRRecommender iter 10: loss = 310014.9093969367, delta_loss = 0.37664565
+22/12/28 15:34:55 INFO BPRRecommender: BPRRecommender iter 11: loss = 310014.67827038135, delta_loss = 0.23112656
+22/12/28 15:34:56 INFO BPRRecommender: BPRRecommender iter 12: loss = 310014.54345930566, delta_loss = 0.13481107
+22/12/28 15:34:56 INFO BPRRecommender: BPRRecommender iter 13: loss = 310014.4704870176, delta_loss = 0.07297229
+22/12/28 15:34:57 INFO BPRRecommender: BPRRecommender iter 14: loss = 310014.4437011885, delta_loss = 0.026785828
+22/12/28 15:34:57 INFO BPRRecommender: BPRRecommender iter 15: loss = 310014.45884576085, delta_loss = -0.015144573
+22/12/28 15:34:58 INFO BPRRecommender: BPRRecommender iter 16: loss = 310014.4961832623, delta_loss = -0.0373375
+22/12/28 15:34:58 INFO BPRRecommender: BPRRecommender iter 17: loss = 310014.52506292594, delta_loss = -0.028879663
+22/12/28 15:34:59 INFO BPRRecommender: BPRRecommender iter 18: loss = 310014.5431844418, delta_loss = -0.018121516
+22/12/28 15:35:00 INFO BPRRecommender: BPRRecommender iter 19: loss = 310014.5511153174, delta_loss = -0.007930876
+22/12/28 15:35:00 INFO BPRRecommender: BPRRecommender iter 20: loss = 310014.5562287752, delta_loss = -0.005113458
+22/12/28 15:35:01 INFO BPRRecommender: BPRRecommender iter 21: loss = 310014.56053831405, delta_loss = -0.0043095388
+22/12/28 15:35:01 INFO BPRRecommender: BPRRecommender iter 22: loss = 310014.5604412404, delta_loss = 9.707367E-5
+22/12/28 15:35:02 INFO BPRRecommender: BPRRecommender iter 23: loss = 310014.5637023365, delta_loss = -0.003261096
+22/12/28 15:35:02 INFO BPRRecommender: BPRRecommender iter 24: loss = 310014.56267474557, delta_loss = 0.001027591
+22/12/28 15:35:03 INFO BPRRecommender: BPRRecommender iter 25: loss = 310014.56318765145, delta_loss = -5.129059E-4
+22/12/28 15:35:04 INFO BPRRecommender: BPRRecommender iter 26: loss = 310014.5627552912, delta_loss = 4.3236028E-4
+22/12/28 15:35:04 INFO BPRRecommender: BPRRecommender iter 27: loss = 310014.56322954147, delta_loss = -4.742503E-4
+22/12/28 15:35:05 INFO BPRRecommender: BPRRecommender iter 28: loss = 310014.56347045023, delta_loss = -2.4090876E-4
+22/12/28 15:35:05 INFO BPRRecommender: BPRRecommender iter 29: loss = 310014.5630639169, delta_loss = 4.065333E-4
+22/12/28 15:35:06 INFO BPRRecommender: BPRRecommender iter 30: loss = 310014.56474236865, delta_loss = -0.0016784517
+22/12/28 15:35:06 INFO BPRRecommender: BPRRecommender iter 31: loss = 310014.5637400483, delta_loss = 0.0010023203
+22/12/28 15:35:07 INFO BPRRecommender: BPRRecommender iter 32: loss = 310014.5628396383, delta_loss = 9.0041E-4
+22/12/28 15:35:08 INFO BPRRecommender: BPRRecommender iter 33: loss = 310014.56411410327, delta_loss = -0.0012744649
+22/12/28 15:35:08 INFO BPRRecommender: BPRRecommender iter 34: loss = 310014.5638106455, delta_loss = 3.0345778E-4
+22/12/28 15:35:09 INFO BPRRecommender: BPRRecommender iter 35: loss = 310014.5634700653, delta_loss = 3.4058018E-4
+22/12/28 15:35:09 INFO BPRRecommender: BPRRecommender iter 36: loss = 310014.56379869976, delta_loss = -3.2863446E-4
+22/12/28 15:35:10 INFO BPRRecommender: BPRRecommender iter 37: loss = 310014.5640691209, delta_loss = -2.7042115E-4
+22/12/28 15:35:10 INFO BPRRecommender: BPRRecommender iter 38: loss = 310014.56487571273, delta_loss = -8.065918E-4
+22/12/28 15:35:11 INFO BPRRecommender: BPRRecommender iter 39: loss = 310014.56382684456, delta_loss = 0.0010488682
+22/12/28 15:35:12 INFO BPRRecommender: BPRRecommender iter 40: loss = 310014.5654714602, delta_loss = -0.0016446157
+22/12/28 15:35:12 INFO BPRRecommender: BPRRecommender iter 41: loss = 310014.5635111381, delta_loss = 0.0019603223
+22/12/28 15:35:13 INFO BPRRecommender: BPRRecommender iter 42: loss = 310014.5635734041, delta_loss = -6.2266015E-5
+22/12/28 15:35:13 INFO BPRRecommender: BPRRecommender iter 43: loss = 310014.5647942401, delta_loss = -0.0012208361
+22/12/28 15:35:14 INFO BPRRecommender: BPRRecommender iter 44: loss = 310014.56652060116, delta_loss = -0.001726361
+22/12/28 15:35:14 INFO BPRRecommender: BPRRecommender iter 45: loss = 310014.5637655762, delta_loss = 0.002755025
+22/12/28 15:35:15 INFO BPRRecommender: BPRRecommender iter 46: loss = 310014.56387971644, delta_loss = -1.1414022E-4
+22/12/28 15:35:16 INFO BPRRecommender: BPRRecommender iter 47: loss = 310014.56299133215, delta_loss = 8.883843E-4
+22/12/28 15:35:16 INFO BPRRecommender: BPRRecommender iter 48: loss = 310014.56349255866, delta_loss = -5.012265E-4
+22/12/28 15:35:17 INFO BPRRecommender: BPRRecommender iter 49: loss = 310014.5632801634, delta_loss = 2.1239527E-4
+22/12/28 15:35:17 INFO BPRRecommender: BPRRecommender iter 50: loss = 310014.56572353095, delta_loss = -0.0024433676
+22/12/28 15:35:17 INFO BPRRecommender: Job Train completed.
+22/12/28 15:35:17 INFO RecommenderJob: ExpCMD: COMPLETE
+22/12/28 15:35:17 INFO RecommenderJob: EvalCMD: START
+22/12/28 15:35:17 INFO BPRRecommender: begin recommend
+22/12/28 15:35:20 INFO BPRRecommender: end recommend
+22/12/28 15:35:20 INFO RecommenderJob: Evaluator info:NormalizedDCGEvaluator is 0.10067848355367494
+22/12/28 15:35:20 INFO RecommenderJob: Evaluator info:PStatisticalParityEvaluator is -0.6564895908112521
+22/12/28 15:35:20 INFO BPRRecommender: begin recommend
+22/12/28 15:35:23 INFO BPRRecommender: end recommend
+22/12/28 15:35:23 INFO RecommenderJob: Result path is exp00003/result/out-4.txt
+22/12/28 15:35:23 INFO RecommenderJob: EvalCMD: COMPLETE.
+22/12/28 15:35:23 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_5/train.txt]
+22/12/28 15:35:23 INFO TextDataConvertor: DataSet: .../../../../data/split/cv_5/train.txt is finished
+22/12/28 15:35:23 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 15:35:23 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 15:35:23 INFO TextDataModel: Transform data to Convertor successfully!
+22/12/28 15:35:23 INFO TextDataConvertor: Dataset: [../../../../data/split/cv_5/test.txt]
+22/12/28 15:35:23 INFO TextDataConvertor: DataSet: ..../../../../data/split/cv_5/test.txt is finished
+22/12/28 15:35:23 INFO TextDataConvertor: rating Scale (real): 0.5 to 5.0
+22/12/28 15:35:23 INFO TextDataConvertor: user number: 6000,	 item number is: 14623
+22/12/28 15:35:24 INFO TextDataModel: Split data to train Set and test Set successfully!
+22/12/28 15:35:24 INFO TextDataModel: Data cardinality of training is 447256
+22/12/28 15:35:24 INFO TextDataModel: Data cardinality of testing is 111814
+22/12/28 15:35:24 INFO TextDataModel: Feature appender loaded successfully!
+22/12/28 15:35:24 INFO RecommenderJob: ExpCMD: START - Executing recommender job on 5.
+22/12/28 15:35:24 INFO BPRRecommender: Job Setup completed.
+22/12/28 15:35:25 INFO BPRRecommender: BPRRecommender iter 1: loss = 310063.53105826926, delta_loss = -310063.53
+22/12/28 15:35:25 INFO BPRRecommender: BPRRecommender iter 2: loss = 310040.69176184724, delta_loss = 22.839296
+22/12/28 15:35:26 INFO BPRRecommender: BPRRecommender iter 3: loss = 310030.73956977174, delta_loss = 9.952192
+22/12/28 15:35:26 INFO BPRRecommender: BPRRecommender iter 4: loss = 310024.65522021335, delta_loss = 6.0843496
+22/12/28 15:35:27 INFO BPRRecommender: BPRRecommender iter 5: loss = 310020.8387378209, delta_loss = 3.8164823
+22/12/28 15:35:27 INFO BPRRecommender: BPRRecommender iter 6: loss = 310018.4250778404, delta_loss = 2.41366
+22/12/28 15:35:28 INFO BPRRecommender: BPRRecommender iter 7: loss = 310016.88832054, delta_loss = 1.5367573
+22/12/28 15:35:29 INFO BPRRecommender: BPRRecommender iter 8: loss = 310015.91637086216, delta_loss = 0.9719497
+22/12/28 15:35:29 INFO BPRRecommender: BPRRecommender iter 9: loss = 310015.309372992, delta_loss = 0.60699785
+22/12/28 15:35:30 INFO BPRRecommender: BPRRecommender iter 10: loss = 310014.9305160711, delta_loss = 0.37885693
+22/12/28 15:35:30 INFO BPRRecommender: BPRRecommender iter 11: loss = 310014.69839065487, delta_loss = 0.23212542
+22/12/28 15:35:31 INFO BPRRecommender: BPRRecommender iter 12: loss = 310014.56192559947, delta_loss = 0.13646506
+22/12/28 15:35:31 INFO BPRRecommender: BPRRecommender iter 13: loss = 310014.49040104833, delta_loss = 0.07152455
+22/12/28 15:35:32 INFO BPRRecommender: BPRRecommender iter 14: loss = 310014.4654245288, delta_loss = 0.02497652
+22/12/28 15:35:33 INFO BPRRecommender: BPRRecommender iter 15: loss = 310014.4838449871, delta_loss = -0.018420458
+22/12/28 15:35:33 INFO BPRRecommender: BPRRecommender iter 16: loss = 310014.52710607054, delta_loss = -0.043261085
+22/12/28 15:35:34 INFO BPRRecommender: BPRRecommender iter 17: loss = 310014.5553956155, delta_loss = -0.028289545
+22/12/28 15:35:34 INFO BPRRecommender: BPRRecommender iter 18: loss = 310014.5769603034, delta_loss = -0.021564689
+22/12/28 15:35:35 INFO BPRRecommender: BPRRecommender iter 19: loss = 310014.58416318416, delta_loss = -0.007202881
+22/12/28 15:35:35 INFO BPRRecommender: BPRRecommender iter 20: loss = 310014.58959891804, delta_loss = -0.005435734
+22/12/28 15:35:36 INFO BPRRecommender: BPRRecommender iter 21: loss = 310014.5926992399, delta_loss = -0.0031003219
+22/12/28 15:35:37 INFO BPRRecommender: BPRRecommender iter 22: loss = 310014.5961229665, delta_loss = -0.0034237267
+22/12/28 15:35:37 INFO BPRRecommender: BPRRecommender iter 23: loss = 310014.5956195686, delta_loss = 5.033979E-4
+22/12/28 15:35:38 INFO BPRRecommender: BPRRecommender iter 24: loss = 310014.596513633, delta_loss = -8.940644E-4
+22/12/28 15:35:38 INFO BPRRecommender: BPRRecommender iter 25: loss = 310014.59574339725, delta_loss = 7.702357E-4
+22/12/28 15:35:39 INFO BPRRecommender: BPRRecommender iter 26: loss = 310014.5983297723, delta_loss = -0.002586375
+22/12/28 15:35:40 INFO BPRRecommender: BPRRecommender iter 27: loss = 310014.5989699783, delta_loss = -6.40206E-4
+22/12/28 15:35:40 INFO BPRRecommender: BPRRecommender iter 28: loss = 310014.59773692256, delta_loss = 0.0012330557
+22/12/28 15:35:41 INFO BPRRecommender: BPRRecommender iter 29: loss = 310014.59796500165, delta_loss = -2.280791E-4
+22/12/28 15:35:41 INFO BPRRecommender: BPRRecommender iter 30: loss = 310014.5973662793, delta_loss = 5.9872237E-4
+22/12/28 15:35:42 INFO BPRRecommender: BPRRecommender iter 31: loss = 310014.5991405882, delta_loss = -0.001774309
+22/12/28 15:35:42 INFO BPRRecommender: BPRRecommender iter 32: loss = 310014.59832195204, delta_loss = 8.1863615E-4
+22/12/28 15:35:43 INFO BPRRecommender: BPRRecommender iter 33: loss = 310014.5989124042, delta_loss = -5.9045217E-4
+22/12/28 15:35:43 INFO BPRRecommender: BPRRecommender iter 34: loss = 310014.5975887962, delta_loss = 0.001323608
+22/12/28 15:35:44 INFO BPRRecommender: BPRRecommender iter 35: loss = 310014.5988487056, delta_loss = -0.0012599094
+22/12/28 15:35:45 INFO BPRRecommender: BPRRecommender iter 36: loss = 310014.59797478607, delta_loss = 8.739195E-4
+22/12/28 15:35:45 INFO BPRRecommender: BPRRecommender iter 37: loss = 310014.59713002405, delta_loss = 8.44762E-4
+22/12/28 15:35:46 INFO BPRRecommender: BPRRecommender iter 38: loss = 310014.5994555562, delta_loss = -0.002325532
+22/12/28 15:35:46 INFO BPRRecommender: BPRRecommender iter 39: loss = 310014.59763270186, delta_loss = 0.0018228544
+22/12/28 15:35:47 INFO BPRRecommender: BPRRecommender iter 40: loss = 310014.59636108496, delta_loss = 0.0012716169
+22/12/28 15:35:48 INFO BPRRecommender: BPRRecommender iter 41: loss = 310014.59618529596, delta_loss = 1.75789E-4
+22/12/28 15:35:48 INFO BPRRecommender: BPRRecommender iter 42: loss = 310014.597999896, delta_loss = -0.0018146001
+22/12/28 15:35:49 INFO BPRRecommender: BPRRecommender iter 43: loss = 310014.5967512622, delta_loss = 0.0012486337
+22/12/28 15:35:49 INFO BPRRecommender: BPRRecommender iter 44: loss = 310014.60076894343, delta_loss = -0.0040176813
+22/12/28 15:35:50 INFO BPRRecommender: BPRRecommender iter 45: loss = 310014.5948921797, delta_loss = 0.0058767637
+22/12/28 15:35:50 INFO BPRRecommender: BPRRecommender iter 46: loss = 310014.5972006708, delta_loss = -0.0023084912
+22/12/28 15:35:51 INFO BPRRecommender: BPRRecommender iter 47: loss = 310014.5950857935, delta_loss = 0.0021148773
+22/12/28 15:35:52 INFO BPRRecommender: BPRRecommender iter 48: loss = 310014.59638212837, delta_loss = -0.0012963349
+22/12/28 15:35:52 INFO BPRRecommender: BPRRecommender iter 49: loss = 310014.59761396033, delta_loss = -0.001231832
+22/12/28 15:35:53 INFO BPRRecommender: BPRRecommender iter 50: loss = 310014.5973159939, delta_loss = 2.979664E-4
+22/12/28 15:35:53 INFO BPRRecommender: Job Train completed.
+22/12/28 15:35:53 INFO RecommenderJob: ExpCMD: COMPLETE
+22/12/28 15:35:53 INFO RecommenderJob: EvalCMD: START
+22/12/28 15:35:53 INFO BPRRecommender: begin recommend
+22/12/28 15:35:55 INFO BPRRecommender: end recommend
+22/12/28 15:35:55 INFO RecommenderJob: Evaluator info:NormalizedDCGEvaluator is 0.10305368084801299
+22/12/28 15:35:55 INFO RecommenderJob: Evaluator info:PStatisticalParityEvaluator is -0.6139223752459835
+22/12/28 15:35:55 INFO BPRRecommender: begin recommend
+22/12/28 15:35:58 INFO BPRRecommender: end recommend
+22/12/28 15:35:58 INFO RecommenderJob: Result path is exp00003/result/out-5.txt
+22/12/28 15:35:58 INFO RecommenderJob: EvalCMD: COMPLETE.
