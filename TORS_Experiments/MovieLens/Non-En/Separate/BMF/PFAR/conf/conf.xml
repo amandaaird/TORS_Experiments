@@ -29,13 +29,14 @@
 	</splitter>
 
 	<!-- ALGORITHM SECTION -->
-	<alg ref="alg:bpr">
+	<alg ref="alg:biasedmf">
 		<iterator-max>50</iterator-max>
 		<learn-rate>0.001</learn-rate>
-		<item-reg>0.00398</item-reg>
-		<user-reg>0.04833</user-reg>
+		<item-reg>0.15635</item-reg>
+		<user-reg>0.00232</user-reg>
+		<bias-reg>0.0952</bias-reg>
 		<bold-driver>true</bold-driver>
-		<num-factors type="discrete">88</num-factors>
+		<num-factors type="discrete">105</num-factors>
 	</alg>
 
 	<!-- METRICS SECTION -->
