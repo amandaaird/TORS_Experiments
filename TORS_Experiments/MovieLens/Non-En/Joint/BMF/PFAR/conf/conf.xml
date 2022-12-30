@@ -33,14 +33,15 @@
 		<save>true</save>
 	</splitter>
 
-	<alg ref="alg:bpr">
+	<!-- ALGORITHM SECTION -->
+	<alg ref="alg:biasedmf">
 		<iterator-max>50</iterator-max>
-		<user-reg><lower>0.001</lower><upper>0.8</upper></user-reg>
-		<item-reg><lower>0.001</lower><upper>0.8</upper></item-reg>
-		<num-factors type="discrete"><lower>20</lower><upper>150</upper></num-factors>
-		<learn-rate>0.01</learn-rate>
+		<learn-rate>0.001</learn-rate>
+		<item-reg>0.15635</item-reg>
+		<user-reg>0.00232</user-reg>
+		<bias-reg>0.0952</bias-reg>
 		<bold-driver>true</bold-driver>
-        <learn-rate-max>0.1</learn-rate-max>
+		<num-factors type="discrete">105</num-factors>
 	</alg>
   
   <!-- METRICS SECTION -->
