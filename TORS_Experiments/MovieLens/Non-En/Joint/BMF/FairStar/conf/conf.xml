@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!-- Configuration file for CIKM 2021 demo -->
+<!-- Part 01: Basic functionality -->
+<!-- Adapted from demo video demo due to recent software updates -->
+
+<librec-auto>
+	<random-seed>202110</random-seed>
+	<thread-count>1</thread-count>
+	<library src="system">default-algorithms.xml</library>
+
+	<!-- DATA SECTION -->
+	<data>
+		<data-dir>../../../../data</data-dir>
+		<format>UIR</format>
+		<data-file format="text">ml_sample_6000.csv</data-file>
+	</data>
+
+	<!-- FEATURES SECTION -->
+	<features>
+		<appender-class>net.librec.data.convertor.appender.ItemFeatureAppender</appender-class>
+		<item-feature-file>movieid_feature_df.csv</item-feature-file>
+		<protected-feature name="fea:non-en" type="fea:non-en">non-en</protected-feature>
+	</features>
+
+	<optimize>
+		<iterations>50</iterations>
+		<metric>ndcg_metric.py</metric>
+	</optimize>
+
+	<!-- SPLITTER SECTION -->
+	<splitter>
+		<model count="5">kcv</model>
+		<save>true</save>
+	</splitter>
+
+	<alg ref="alg:bpr">
+		<iterator-max>50</iterator-max>
+		<user-reg><lower>0.001</lower><upper>0.8</upper></user-reg>
+		<item-reg><lower>0.001</lower><upper>0.8</upper></item-reg>
+		<num-factors type="discrete"><lower>20</lower><upper>150</upper></num-factors>
+		<learn-rate>0.01</learn-rate>
+		<bold-driver>true</bold-driver>
+        <learn-rate-max>0.1</learn-rate-max>
+	</alg>
+
+	<!-- METRICS SECTION -->
+	<metric>
+		<ranking>true</ranking>
+		<list-size>50</list-size>
+		<class>ndcg,psp</class>
+		<protected-feature ref="fea:non-en"/>
+
+		<script src="system" lang="python3">
+			<script-name>ndcg_metric.py</script-name>
+			<param name="list_size">10</param>
+		</script>
+
+		<script src="system" lang="python3">
+			<script-name>psp.py</script-name>
+			<param name="list_size">10</param>
+			<param name="protected_feature">non-en</param>
+		</script>
+	</metric>
+
+	<rerank>
+		<script lang="python3" src="system">
+			<script-name>fairstar_rerank.py</script-name>
+			<param name="max_len">10</param>
+			<param name="alpha">
+				<lower>0.01</lower><upper>1</upper>
+			</param>
+			<param name="binary">False</param>
+			<param name="protected_feature" ref="fea:non-en"/>
+		</script>
+	</rerank>
+
+	<!-- POST-PROCESSING SECTION -->
+
+	<post>
+		<script lang="python3" src="system">
+			<script-name>result_graphics.py</script-name>
+			<param name="browser">true</param>
+		</script>
+		<script lang="python3" src="system">
+			<script-name>results_to_csv.py</script-name>
+			<param name="option">all</param>
+		</script>
+	</post>
+</librec-auto>
