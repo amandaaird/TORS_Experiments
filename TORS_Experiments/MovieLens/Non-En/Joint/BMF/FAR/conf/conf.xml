@@ -35,13 +35,14 @@
 
 	<!-- ALGORITHM SECTION -->
 	<alg ref="alg:biasedmf">
-		<iterator-max>50</iterator-max>
-		<learn-rate>0.001</learn-rate>
-		<item-reg>0.15635</item-reg>
-		<user-reg>0.00232</user-reg>
-		<bias-reg>0.0952</bias-reg>
+		<similarity type="item">pcc</similarity> -->
+		<iterator-max>350</iterator-max>
+		<user-reg><lower>0</lower><upper>0.2</upper></user-reg>
+		<item-reg><lower>0</lower><upper>0.2</upper></item-reg>
+	    <bias-reg><lower>0</lower><upper>0.2</upper></bias-reg>
+        <num-factors type="discrete"><lower>20</lower><upper>150</upper></num-factors>
 		<bold-driver>true</bold-driver>
-		<num-factors type="discrete">105</num-factors>
+	    <learn-rate>0.001</learn-rate>
 	</alg>
 
 	<!-- METRICS SECTION -->
