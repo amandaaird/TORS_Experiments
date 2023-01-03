@@ -56,6 +56,19 @@
 			<param name="protected_feature">non-en</param>
 		</script>
 	</metric>
+	
+		<rerank>
+		<script lang="python3" src="system">
+			<script-name>far_rerank.py</script-name>
+			<param name="max_len">10</param>
+			<param name="lambda">
+				<value>0.0</value>
+                <value>0.0</value>
+			</param>
+			<param name="binary">False</param>
+			<param name="protected_feature" ref="fea:non-en"/>
+		</script>
+	</rerank>
 
 
 	<!-- POST-PROCESSING SECTION -->
