@@ -12,13 +12,13 @@
 	<data>
 		<data-dir>../../../../data</data-dir>
 		<format>UIR</format>
-		<data-file format="text">rating_5000_cls_hc_10core_iterative.csv</data-file>
+		<data-file format="text">ml_sample_6000.csv</data-file>
 	</data>
 
 	<!-- FEATURES SECTION -->
 	<features>
 		<appender-class>net.librec.data.convertor.appender.ItemFeatureAppender</appender-class>
-		<item-feature-file>loan_feature_df_hc_10core.csv</item-feature-file>
+		<item-feature-file>movieid_feature_df.csv</item-feature-file>
 		<protected-feature name="fea:non-en" type="fea:non-en">non-en</protected-feature>
 	</features>
 
