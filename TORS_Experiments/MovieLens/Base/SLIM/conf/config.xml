@@ -12,7 +12,7 @@
 	<data>
 		<data-dir>../../data</data-dir>
 		<format>UIR</format>
-		<data-file format="text">ml_sample_50.csv</data-file>
+		<data-file format="text">ml_sample_6000.csv</data-file>
 	</data>
 	
 	<!-- FEATURES SECTION -->
