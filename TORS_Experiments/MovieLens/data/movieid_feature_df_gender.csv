@@ -58,12 +58,12 @@
 451,en,1
 451,en,1
 902,Fantasy,1
-902,Science Fiction,1
+902,sci_fi,1
 902,Adventure,1
 902,cn,1
 902,fr,1
 902,non-en,1
-63,Science Fiction,1
+63,sci_fi,1
 63,Thriller,1
 63,Mystery,1
 63,women_writer_director,1
@@ -124,7 +124,7 @@
 2086,en,1
 2045,Drama,1
 2045,Mystery,1
-2045,Science Fiction,1
+2045,sci_fi,1
 2045,Thriller,1
 2045,en,1
 2045,en,1
@@ -218,7 +218,7 @@
 1642,en,1
 281,Crime,1
 281,Drama,1
-281,Science Fiction,1
+281,sci_fi,1
 281,Thriller,1
 281,women_writer_director,1
 281,en,1
@@ -290,7 +290,7 @@
 6280,en,1
 11,Adventure,1
 11,Action,1
-11,Science Fiction,1
+11,sci_fi,1
 11,en,1
 11,en,1
 4476,Adventure,1
@@ -309,7 +309,7 @@
 32325,en,1
 3036,Drama,1
 3036,Horror,1
-3036,Science Fiction,1
+3036,sci_fi,1
 3036,Romance,1
 3036,women_writer_director,1
 3036,en,1
@@ -335,7 +335,7 @@
 527,en,1
 6950,Action,1
 6950,Drama,1
-6950,Science Fiction,1
+6950,sci_fi,1
 6950,Thriller,1
 6950,en,1
 6950,ko,1
@@ -390,7 +390,7 @@
 2636,en,1
 2164,Action,1
 2164,Adventure,1
-2164,Science Fiction,1
+2164,sci_fi,1
 2164,en,1
 2164,no,1
 2164,sv,1
@@ -399,7 +399,7 @@
 278,Crime,1
 278,en,1
 278,en,1
-193,Science Fiction,1
+193,sci_fi,1
 193,Action,1
 193,Adventure,1
 193,Thriller,1
@@ -468,7 +468,7 @@
 8987,en,1
 8987,en,1
 8831,Thriller,1
-8831,Science Fiction,1
+8831,sci_fi,1
 8831,Action,1
 8831,Crime,1
 8831,en,1
@@ -479,7 +479,7 @@
 315,en,1
 8011,Action,1
 8011,Fantasy,1
-8011,Science Fiction,1
+8011,sci_fi,1
 8011,en,1
 8011,en,1
 2654,Horror,1
@@ -509,7 +509,7 @@
 178,en,1
 178,en,1
 4722,Horror,1
-4722,Science Fiction,1
+4722,sci_fi,1
 4722,Thriller,1
 4722,en,1
 4722,en,1
@@ -564,7 +564,7 @@
 6,en,1
 6,en,1
 329,Adventure,1
-329,Science Fiction,1
+329,sci_fi,1
 329,en,1
 329,es,1
 329,en,1
@@ -628,7 +628,7 @@
 5550,Action,1
 5550,Adventure,1
 5550,Crime,1
-5550,Science Fiction,1
+5550,sci_fi,1
 5550,Thriller,1
 5550,en,1
 5550,ja,1
@@ -651,7 +651,7 @@
 8850,Fantasy,1
 8850,Action,1
 8850,Thriller,1
-8850,Science Fiction,1
+8850,sci_fi,1
 8850,en,1
 8850,en,1
 695,Comedy,1
@@ -667,7 +667,7 @@
 867,Thriller,1
 867,en,1
 867,en,1
-78,Science Fiction,1
+78,sci_fi,1
 78,Drama,1
 78,Thriller,1
 78,en,1
@@ -700,7 +700,7 @@
 251,en,1
 280,Action,1
 280,Thriller,1
-280,Science Fiction,1
+280,sci_fi,1
 280,en,1
 280,es,1
 280,en,1
@@ -783,7 +783,7 @@
 896,bn,1
 896,non-en,1
 3065,Comedy,1
-3065,Science Fiction,1
+3065,sci_fi,1
 3065,women_writer_director,1
 3065,en,1
 3065,en,1
@@ -839,7 +839,7 @@
 935,en,1
 7095,Comedy,1
 7095,Drama,1
-7095,Science Fiction,1
+7095,sci_fi,1
 7095,en,1
 7095,en,1
 627,Drama,1
@@ -848,7 +848,7 @@
 627,en,1
 602,Action,1
 602,Adventure,1
-602,Science Fiction,1
+602,sci_fi,1
 602,en,1
 602,en,1
 1645,Crime,1
@@ -1005,7 +1005,7 @@
 15,Drama,1
 15,en,1
 15,en,1
-62,Science Fiction,1
+62,sci_fi,1
 62,Mystery,1
 62,Adventure,1
 62,en,1
@@ -1126,7 +1126,7 @@
 6346,en,1
 173,Adventure,1
 173,Drama,1
-173,Science Fiction,1
+173,sci_fi,1
 173,en,1
 173,en,1
 864,Comedy,1
@@ -1213,7 +1213,7 @@
 402,Mystery,1
 402,en,1
 402,en,1
-601,Science Fiction,1
+601,sci_fi,1
 601,Adventure,1
 601,Family,1
 601,Fantasy,1
@@ -1245,14 +1245,14 @@
 2756,Adventure,1
 2756,Action,1
 2756,Thriller,1
-2756,Science Fiction,1
+2756,sci_fi,1
 2756,en,1
 2756,en,1
 790,Horror,1
 790,women_writer_director,1
 790,en,1
 790,en,1
-1103,Science Fiction,1
+1103,sci_fi,1
 1103,Action,1
 1103,en,1
 1103,en,1
@@ -1309,7 +1309,7 @@
 30892,de,1
 30892,en,1
 892,Comedy,1
-892,Science Fiction,1
+892,sci_fi,1
 892,Fantasy,1
 892,fr,1
 892,non-en,1
@@ -1356,7 +1356,7 @@
 510,en,1
 1891,Adventure,1
 1891,Action,1
-1891,Science Fiction,1
+1891,sci_fi,1
 1891,women_writer_director,1
 1891,en,1
 1891,en,1
@@ -1377,13 +1377,13 @@
 85,ne,1
 85,en,1
 68,Comedy,1
-68,Science Fiction,1
+68,sci_fi,1
 68,en,1
 68,en,1
 679,Horror,1
 679,Action,1
 679,Thriller,1
-679,Science Fiction,1
+679,sci_fi,1
 679,en,1
 679,en,1
 429,Western,1
@@ -1400,7 +1400,7 @@
 947,en,1
 947,tr,1
 947,en,1
-185,Science Fiction,1
+185,sci_fi,1
 185,Drama,1
 185,en,1
 185,en,1
@@ -1421,7 +1421,7 @@
 335,en,1
 1892,Adventure,1
 1892,Action,1
-1892,Science Fiction,1
+1892,sci_fi,1
 1892,en,1
 1892,en,1
 144,Drama,1
@@ -1445,7 +1445,7 @@
 348,Horror,1
 348,Action,1
 348,Thriller,1
-348,Science Fiction,1
+348,sci_fi,1
 348,en,1
 348,es,1
 348,en,1
@@ -1487,7 +1487,7 @@
 530,Adventure,1
 530,Animation,1
 530,Comedy,1
-530,Science Fiction,1
+530,sci_fi,1
 530,Family,1
 530,en,1
 530,en,1
@@ -1521,7 +1521,7 @@
 703,de,1
 703,en,1
 1398,Drama,1
-1398,Science Fiction,1
+1398,sci_fi,1
 1398,Thriller,1
 1398,ru,1
 1398,non-en,1
@@ -1545,7 +1545,7 @@
 490,en,1
 218,Action,1
 218,Thriller,1
-218,Science Fiction,1
+218,sci_fi,1
 218,women_writer_director,1
 218,en,1
 218,en,1
@@ -1599,7 +1599,7 @@
 829,en,1
 829,en,1
 828,Drama,1
-828,Science Fiction,1
+828,sci_fi,1
 828,Thriller,1
 828,en,1
 828,fr,1
@@ -1666,7 +1666,7 @@
 212,en,1
 105,Adventure,1
 105,Comedy,1
-105,Science Fiction,1
+105,sci_fi,1
 105,Family,1
 105,en,1
 105,en,1
@@ -1681,7 +1681,7 @@
 1554,en,1
 1554,it,1
 1554,en,1
-149,Science Fiction,1
+149,sci_fi,1
 149,Animation,1
 149,ja,1
 149,non-en,1
@@ -1690,7 +1690,7 @@
 903,en,1
 903,en,1
 3034,Comedy,1
-3034,Science Fiction,1
+3034,sci_fi,1
 3034,women_writer_director,1
 3034,en,1
 3034,de,1
@@ -1746,7 +1746,7 @@
 783,hi,1
 783,en,1
 830,Adventure,1
-830,Science Fiction,1
+830,sci_fi,1
 830,Action,1
 830,en,1
 830,en,1
@@ -1780,7 +1780,7 @@
 6114,en,1
 6114,en,1
 229,Horror,1
-229,Science Fiction,1
+229,sci_fi,1
 229,en,1
 229,en,1
 1598,Crime,1
@@ -1820,7 +1820,7 @@
 2212,Thriller,1
 2212,en,1
 2212,en,1
-199,Science Fiction,1
+199,sci_fi,1
 199,Action,1
 199,Adventure,1
 199,Thriller,1
@@ -1838,18 +1838,18 @@
 1573,en,1
 1573,es,1
 1573,en,1
-152,Science Fiction,1
+152,sci_fi,1
 152,Adventure,1
 152,Mystery,1
 152,en,1
 152,en,1
-174,Science Fiction,1
+174,sci_fi,1
 174,Action,1
 174,Adventure,1
 174,Thriller,1
 174,en,1
 174,en,1
-172,Science Fiction,1
+172,sci_fi,1
 172,Action,1
 172,Adventure,1
 172,Thriller,1
@@ -1857,18 +1857,18 @@
 172,en,1
 154,Action,1
 154,Adventure,1
-154,Science Fiction,1
+154,sci_fi,1
 154,Thriller,1
 154,en,1
 154,en,1
-157,Science Fiction,1
+157,sci_fi,1
 157,Action,1
 157,Adventure,1
 157,Thriller,1
 157,en,1
 157,ru,1
 157,en,1
-168,Science Fiction,1
+168,sci_fi,1
 168,Adventure,1
 168,en,1
 168,fi,1
@@ -1881,13 +1881,13 @@
 621,en,1
 621,en,1
 55687,Action,1
-55687,Science Fiction,1
+55687,sci_fi,1
 55687,Thriller,1
 55687,en,1
 55687,en,1
 75,Comedy,1
 75,Fantasy,1
-75,Science Fiction,1
+75,sci_fi,1
 75,en,1
 75,fr,1
 75,en,1
@@ -1982,11 +1982,11 @@
 6499,Adventure,1
 6499,Family,1
 6499,Fantasy,1
-6499,Science Fiction,1
+6499,sci_fi,1
 6499,Thriller,1
 6499,en,1
 6499,en,1
-816,Science Fiction,1
+816,sci_fi,1
 816,Comedy,1
 816,Crime,1
 816,en,1
@@ -2000,12 +2000,12 @@
 18,Fantasy,1
 18,Action,1
 18,Thriller,1
-18,Science Fiction,1
+18,sci_fi,1
 18,en,1
 18,sv,1
 18,de,1
 18,en,1
-1811,Science Fiction,1
+1811,sci_fi,1
 1811,Drama,1
 1811,Comedy,1
 1811,en,1
@@ -2016,7 +2016,7 @@
 2058,en,1
 330,Adventure,1
 330,Action,1
-330,Science Fiction,1
+330,sci_fi,1
 330,en,1
 330,en,1
 33660,Drama,1
@@ -2063,7 +2063,7 @@
 266,en,1
 754,Action,1
 754,Crime,1
-754,Science Fiction,1
+754,sci_fi,1
 754,Thriller,1
 754,en,1
 754,la,1
@@ -2084,7 +2084,7 @@
 8834,Thriller,1
 8834,en,1
 8834,en,1
-8854,Science Fiction,1
+8854,sci_fi,1
 8854,Action,1
 8854,Adventure,1
 8854,en,1
@@ -2144,7 +2144,7 @@
 3597,en,1
 3597,en,1
 782,Thriller,1
-782,Science Fiction,1
+782,sci_fi,1
 782,Mystery,1
 782,Romance,1
 782,en,1
@@ -2168,7 +2168,7 @@
 563,Adventure,1
 563,Action,1
 563,Thriller,1
-563,Science Fiction,1
+563,sci_fi,1
 563,en,1
 563,en,1
 2895,Drama,1
@@ -2259,7 +2259,7 @@
 586,en,1
 586,en,1
 2666,Mystery,1
-2666,Science Fiction,1
+2666,sci_fi,1
 2666,en,1
 2666,en,1
 6116,Adventure,1
@@ -2299,7 +2299,7 @@
 32456,en,1
 2157,Adventure,1
 2157,Family,1
-2157,Science Fiction,1
+2157,sci_fi,1
 2157,en,1
 2157,en,1
 8838,Action,1
@@ -2337,7 +2337,7 @@
 8656,women_writer_director,1
 8656,en,1
 8656,en,1
-929,Science Fiction,1
+929,sci_fi,1
 929,Action,1
 929,Thriller,1
 929,en,1
@@ -2362,7 +2362,7 @@
 312,de,1
 312,non-en,1
 846,Mystery,1
-846,Science Fiction,1
+846,sci_fi,1
 846,Thriller,1
 846,en,1
 846,en,1
@@ -2379,7 +2379,7 @@
 1389,en,1
 95,Action,1
 95,Thriller,1
-95,Science Fiction,1
+95,sci_fi,1
 95,Adventure,1
 95,en,1
 95,ru,1
@@ -2505,20 +2505,20 @@
 928,en,1
 928,en,1
 19,Drama,1
-19,Science Fiction,1
+19,sci_fi,1
 19,women_writer_director,1
 19,xx,1
 19,non-en,1
 165,Adventure,1
 165,Comedy,1
 165,Family,1
-165,Science Fiction,1
+165,sci_fi,1
 165,en,1
 165,en,1
 196,Adventure,1
 196,Comedy,1
 196,Family,1
-196,Science Fiction,1
+196,sci_fi,1
 196,en,1
 196,en,1
 551,Action,1
@@ -2530,7 +2530,7 @@
 346,ja,1
 346,non-en,1
 841,Action,1
-841,Science Fiction,1
+841,sci_fi,1
 841,Adventure,1
 841,en,1
 841,it,1
@@ -2591,7 +2591,7 @@
 27332,women_writer_director,1
 27332,en,1
 27332,en,1
-97,Science Fiction,1
+97,sci_fi,1
 97,Action,1
 97,Adventure,1
 97,en,1
@@ -2646,7 +2646,7 @@
 805,en,1
 2182,Comedy,1
 2182,Horror,1
-2182,Science Fiction,1
+2182,sci_fi,1
 2182,en,1
 2182,en,1
 4011,Fantasy,1
@@ -2767,7 +2767,7 @@
 2760,en,1
 2760,en,1
 431,Thriller,1
-431,Science Fiction,1
+431,sci_fi,1
 431,Mystery,1
 431,de,1
 431,en,1
@@ -2825,7 +2825,7 @@
 3486,en,1
 1091,Horror,1
 1091,Mystery,1
-1091,Science Fiction,1
+1091,sci_fi,1
 1091,en,1
 1091,no,1
 1091,en,1
@@ -2846,7 +2846,7 @@
 3121,women_writer_director,1
 3121,en,1
 3121,en,1
-4975,TV Movie,1
+4975,TV,1
 4975,Drama,1
 4975,en,1
 4975,en,1
@@ -2857,7 +2857,7 @@
 1039,de,1
 1039,non-en,1
 4437,Thriller,1
-4437,Science Fiction,1
+4437,sci_fi,1
 4437,en,1
 4437,ru,1
 4437,en,1
@@ -2934,12 +2934,12 @@
 692,en,1
 1678,Thriller,1
 1678,Horror,1
-1678,Science Fiction,1
+1678,sci_fi,1
 1678,ja,1
 1678,non-en,1
 1680,Action,1
 1680,Adventure,1
-1680,Science Fiction,1
+1680,sci_fi,1
 1680,ja,1
 1680,non-en,1
 244,Action,1
@@ -2957,7 +2957,7 @@
 707,Thriller,1
 707,en,1
 707,en,1
-200,Science Fiction,1
+200,sci_fi,1
 200,Action,1
 200,Adventure,1
 200,Thriller,1
@@ -3068,17 +3068,17 @@
 2362,Adventure,1
 2362,Drama,1
 2362,Horror,1
-2362,Science Fiction,1
+2362,sci_fi,1
 2362,Thriller,1
 2362,Western,1
 2362,en,1
 2362,en,1
 1688,Action,1
-1688,Science Fiction,1
+1688,sci_fi,1
 1688,en,1
 1688,en,1
 1687,Action,1
-1687,Science Fiction,1
+1687,sci_fi,1
 1687,en,1
 1687,en,1
 796,Drama,1
@@ -3098,7 +3098,7 @@
 1641,en,1
 1641,en,1
 603,Action,1
-603,Science Fiction,1
+603,sci_fi,1
 603,women_writer_director,1
 603,en,1
 603,en,1
@@ -3112,7 +3112,7 @@
 8970,Comedy,1
 8970,en,1
 8970,en,1
-70687,Science Fiction,1
+70687,sci_fi,1
 70687,Drama,1
 70687,women_writer_director,1
 70687,non-en,1
@@ -3143,7 +3143,7 @@
 6396,en,1
 1946,Action,1
 1946,Thriller,1
-1946,Science Fiction,1
+1946,sci_fi,1
 1946,Horror,1
 1946,en,1
 1946,en,1
@@ -3180,7 +3180,7 @@
 4927,en,1
 1893,Adventure,1
 1893,Action,1
-1893,Science Fiction,1
+1893,sci_fi,1
 1893,en,1
 1893,en,1
 8785,Comedy,1
@@ -3192,7 +3192,7 @@
 1924,Action,1
 1924,Adventure,1
 1924,Fantasy,1
-1924,Science Fiction,1
+1924,sci_fi,1
 1924,en,1
 1924,en,1
 138,Horror,1
@@ -3201,48 +3201,48 @@
 138,hu,1
 138,en,1
 30793,Horror,1
-30793,Science Fiction,1
+30793,sci_fi,1
 30793,en,1
 30793,en,1
 3103,Fantasy,1
 3103,Horror,1
-3103,Science Fiction,1
+3103,sci_fi,1
 3103,Thriller,1
 3103,en,1
 3103,es,1
 3103,en,1
 3035,Drama,1
 3035,Horror,1
-3035,Science Fiction,1
+3035,sci_fi,1
 3035,women_writer_director,1
 3035,en,1
 3035,en,1
 3077,Horror,1
-3077,Science Fiction,1
+3077,sci_fi,1
 3077,women_writer_director,1
 3077,en,1
 3077,en,1
 3074,Fantasy,1
 3074,Horror,1
-3074,Science Fiction,1
+3074,sci_fi,1
 3074,en,1
 3074,en,1
 3076,Fantasy,1
 3076,Horror,1
-3076,Science Fiction,1
+3076,sci_fi,1
 3076,en,1
 3076,en,1
 3079,Horror,1
-3079,Science Fiction,1
+3079,sci_fi,1
 3079,women_writer_director,1
 3079,en,1
 3079,en,1
 43391,Thriller,1
-43391,Science Fiction,1
+43391,sci_fi,1
 43391,en,1
 43391,en,1
 8974,Horror,1
-8974,Science Fiction,1
+8974,sci_fi,1
 8974,Thriller,1
 8974,cs,1
 8974,en,1
@@ -3255,7 +3255,7 @@
 509,es,1
 509,en,1
 1090,Thriller,1
-1090,Science Fiction,1
+1090,sci_fi,1
 1090,Mystery,1
 1090,en,1
 1090,en,1
@@ -3285,7 +3285,7 @@
 8487,Action,1
 8487,Adventure,1
 8487,Comedy,1
-8487,Science Fiction,1
+8487,sci_fi,1
 8487,Western,1
 8487,en,1
 8487,en,1
@@ -3328,7 +3328,7 @@
 1812,en,1
 1812,en,1
 8914,Action,1
-8914,Science Fiction,1
+8914,sci_fi,1
 8914,Thriller,1
 8914,women_writer_director,1
 8914,en,1
@@ -3375,7 +3375,7 @@
 873,en,1
 873,en,1
 48660,Horror,1
-48660,Science Fiction,1
+48660,sci_fi,1
 48660,en,1
 48660,en,1
 3934,Crime,1
@@ -3438,7 +3438,7 @@
 1911,no,1
 1911,en,1
 2900,Drama,1
-2900,Science Fiction,1
+2900,sci_fi,1
 2900,Thriller,1
 2900,en,1
 2900,en,1
@@ -3503,7 +3503,7 @@
 226,en,1
 861,Action,1
 861,Adventure,1
-861,Science Fiction,1
+861,sci_fi,1
 861,en,1
 861,en,1
 2457,Drama,1
@@ -3591,7 +3591,7 @@
 404,en,1
 5548,Action,1
 5548,Thriller,1
-5548,Science Fiction,1
+5548,sci_fi,1
 5548,en,1
 5548,en,1
 856,Fantasy,1
@@ -3646,7 +3646,7 @@
 2020,Comedy,1
 2020,en,1
 2020,en,1
-1694,Science Fiction,1
+1694,sci_fi,1
 1694,Comedy,1
 1694,Horror,1
 1694,en,1
@@ -3663,7 +3663,7 @@
 961,en,1
 961,en,1
 957,Comedy,1
-957,Science Fiction,1
+957,sci_fi,1
 957,en,1
 957,en,1
 37853,Comedy,1
@@ -3780,7 +3780,7 @@
 1850,en,1
 926,Comedy,1
 926,Family,1
-926,Science Fiction,1
+926,sci_fi,1
 926,en,1
 926,en,1
 1213,Thriller,1
@@ -3885,7 +3885,7 @@
 101383,Documentary,1
 101383,non-en,1
 2787,Thriller,1
-2787,Science Fiction,1
+2787,sci_fi,1
 2787,Action,1
 2787,en,1
 2787,en,1
@@ -3916,7 +3916,7 @@
 2193,Romance,1
 2193,en,1
 2193,en,1
-2067,Science Fiction,1
+2067,sci_fi,1
 2067,en,1
 2067,en,1
 5693,Drama,1
@@ -4008,7 +4008,7 @@
 1496,Romance,1
 1496,en,1
 1496,en,1
-1498,Science Fiction,1
+1498,sci_fi,1
 1498,Action,1
 1498,Adventure,1
 1498,Comedy,1
@@ -4016,7 +4016,7 @@
 1498,fr,1
 1498,en,1
 1498,en,1
-1497,Science Fiction,1
+1497,sci_fi,1
 1497,Adventure,1
 1497,Action,1
 1497,Comedy,1
@@ -4028,7 +4028,7 @@
 1499,Comedy,1
 1499,Family,1
 1499,Fantasy,1
-1499,Science Fiction,1
+1499,sci_fi,1
 1499,en,1
 1499,en,1
 1880,Action,1
@@ -4065,7 +4065,7 @@
 2102,Drama,1
 2102,Action,1
 2102,Thriller,1
-2102,Science Fiction,1
+2102,sci_fi,1
 2102,Foreign,1
 2102,en,1
 2102,en,1
@@ -4078,7 +4078,7 @@
 1908,fr,1
 1908,es,1
 1908,en,1
-840,Science Fiction,1
+840,sci_fi,1
 840,Drama,1
 840,hi,1
 840,en,1
@@ -4121,7 +4121,7 @@
 1793,en,1
 1793,en,1
 593,Drama,1
-593,Science Fiction,1
+593,sci_fi,1
 593,Adventure,1
 593,Mystery,1
 593,ru,1
@@ -4144,7 +4144,7 @@
 1552,Family,1
 1552,en,1
 1552,en,1
-106,Science Fiction,1
+106,sci_fi,1
 106,Action,1
 106,Adventure,1
 106,Thriller,1
@@ -4186,7 +4186,7 @@
 1443,women_writer_director,1
 1443,en,1
 1443,en,1
-889,Science Fiction,1
+889,sci_fi,1
 889,Comedy,1
 889,Family,1
 889,Romance,1
@@ -4212,7 +4212,7 @@
 5608,de,1
 5608,non-en,1
 5491,Action,1
-5491,Science Fiction,1
+5491,sci_fi,1
 5491,War,1
 5491,en,1
 5491,fr,1
@@ -4246,7 +4246,7 @@
 962,en,1
 5483,Fantasy,1
 5483,Horror,1
-5483,Science Fiction,1
+5483,sci_fi,1
 5483,it,1
 5483,non-en,1
 668,Adventure,1
@@ -4265,7 +4265,7 @@
 698,Action,1
 698,Adventure,1
 698,Thriller,1
-698,Science Fiction,1
+698,sci_fi,1
 698,en,1
 698,it,1
 698,en,1
@@ -4310,7 +4310,7 @@
 985,Drama,1
 985,Fantasy,1
 985,Horror,1
-985,Science Fiction,1
+985,sci_fi,1
 985,en,1
 985,en,1
 541,Crime,1
@@ -4331,7 +4331,7 @@
 2075,en,1
 1551,Drama,1
 1551,Horror,1
-1551,Science Fiction,1
+1551,sci_fi,1
 1551,Thriller,1
 1551,en,1
 1551,fr,1
@@ -4339,22 +4339,22 @@
 1551,en,1
 26554,Horror,1
 26554,Comedy,1
-26554,Science Fiction,1
+26554,sci_fi,1
 26554,en,1
 26554,en,1
-169,Science Fiction,1
+169,sci_fi,1
 169,Action,1
 169,Thriller,1
 169,en,1
 169,en,1
 865,Action,1
-865,Science Fiction,1
+865,sci_fi,1
 865,en,1
 865,en,1
 8810,Adventure,1
 8810,Action,1
 8810,Thriller,1
-8810,Science Fiction,1
+8810,sci_fi,1
 8810,en,1
 8810,en,1
 1727,Action,1
@@ -4415,7 +4415,7 @@
 479,en,1
 7450,Animation,1
 7450,Action,1
-7450,Science Fiction,1
+7450,sci_fi,1
 7450,Family,1
 7450,Adventure,1
 7450,en,1
@@ -4439,7 +4439,7 @@
 25993,Mystery,1
 25993,en,1
 25993,en,1
-26270,Science Fiction,1
+26270,sci_fi,1
 26270,en,1
 26270,en,1
 494,Adventure,1
@@ -4514,7 +4514,7 @@
 2211,de,1
 2211,non-en,1
 8843,Horror,1
-8843,Science Fiction,1
+8843,sci_fi,1
 8843,Thriller,1
 8843,en,1
 8843,en,1
@@ -4523,7 +4523,7 @@
 3110,en,1
 3110,en,1
 26865,Horror,1
-26865,Science Fiction,1
+26865,sci_fi,1
 26865,Mystery,1
 26865,en,1
 26865,en,1
@@ -4559,12 +4559,12 @@
 469,en,1
 2160,Adventure,1
 2160,Drama,1
-2160,Science Fiction,1
+2160,sci_fi,1
 2160,en,1
 2160,fr,1
 2160,en,1
 2161,Adventure,1
-2161,Science Fiction,1
+2161,sci_fi,1
 2161,en,1
 2161,en,1
 3073,Comedy,1
@@ -4594,7 +4594,7 @@
 2134,Thriller,1
 2134,Adventure,1
 2134,Fantasy,1
-2134,Science Fiction,1
+2134,sci_fi,1
 2134,Romance,1
 2134,en,1
 2134,en,1
@@ -4630,7 +4630,7 @@
 4958,en,1
 8870,Thriller,1
 8870,Action,1
-8870,Science Fiction,1
+8870,sci_fi,1
 8870,en,1
 8870,en,1
 681,Adventure,1
@@ -4782,7 +4782,7 @@
 58084,en,1
 2614,Action,1
 2614,Comedy,1
-2614,Science Fiction,1
+2614,sci_fi,1
 2614,en,1
 2614,en,1
 40962,Drama,1
@@ -4913,7 +4913,7 @@
 4133,en,1
 56715,Comedy,1
 56715,Fantasy,1
-56715,Science Fiction,1
+56715,sci_fi,1
 56715,en,1
 56715,fr,1
 56715,en,1
@@ -4968,7 +4968,7 @@
 2981,Adventure,1
 2981,Drama,1
 2981,Fantasy,1
-2981,Science Fiction,1
+2981,sci_fi,1
 2981,women_writer_director,1
 2981,en,1
 2981,en,1
@@ -5122,7 +5122,7 @@
 2114,Action,1
 2114,Animation,1
 2114,Fantasy,1
-2114,Science Fiction,1
+2114,sci_fi,1
 2114,Thriller,1
 2114,en,1
 2114,en,1
@@ -5143,7 +5143,7 @@
 3980,Action,1
 3980,Comedy,1
 3980,Horror,1
-3980,Science Fiction,1
+3980,sci_fi,1
 3980,Thriller,1
 3980,en,1
 3980,en,1
@@ -5163,7 +5163,7 @@
 5680,Fantasy,1
 5680,Horror,1
 5680,Comedy,1
-5680,Science Fiction,1
+5680,sci_fi,1
 5680,women_writer_director,1
 5680,en,1
 5680,en,1
@@ -5181,12 +5181,12 @@
 3543,en,1
 2605,Comedy,1
 2605,Family,1
-2605,Science Fiction,1
+2605,sci_fi,1
 2605,en,1
 2605,en,1
 8337,Action,1
 8337,Horror,1
-8337,Science Fiction,1
+8337,sci_fi,1
 8337,Thriller,1
 8337,en,1
 8337,en,1
@@ -5201,7 +5201,7 @@
 26603,en,1
 1648,Adventure,1
 1648,Comedy,1
-1648,Science Fiction,1
+1648,sci_fi,1
 1648,en,1
 1648,fr,1
 1648,de,1
@@ -5215,7 +5215,7 @@
 4105,en,1
 3064,Fantasy,1
 3064,Comedy,1
-3064,Science Fiction,1
+3064,sci_fi,1
 3064,Romance,1
 3064,en,1
 3064,en,1
@@ -5229,7 +5229,7 @@
 2210,Comedy,1
 2210,Drama,1
 2210,Romance,1
-2210,Science Fiction,1
+2210,sci_fi,1
 2210,women_writer_director,1
 2210,en,1
 2210,en,1
@@ -5253,14 +5253,14 @@
 4486,en,1
 4296,Mystery,1
 4296,Drama,1
-4296,Science Fiction,1
+4296,sci_fi,1
 4296,Thriller,1
 4296,en,1
 4296,en,1
 331,Adventure,1
 331,Action,1
 331,Thriller,1
-331,Science Fiction,1
+331,sci_fi,1
 331,en,1
 331,es,1
 331,en,1
@@ -5277,7 +5277,7 @@
 1548,en,1
 1548,en,1
 869,Thriller,1
-869,Science Fiction,1
+869,sci_fi,1
 869,Action,1
 869,Adventure,1
 869,en,1
@@ -5521,7 +5521,7 @@
 3173,th,1
 3173,non-en,1
 167,Drama,1
-167,Science Fiction,1
+167,sci_fi,1
 167,en,1
 167,en,1
 141,Fantasy,1
@@ -5554,7 +5554,7 @@
 1433,Drama,1
 1433,Horror,1
 1433,Thriller,1
-1433,Science Fiction,1
+1433,sci_fi,1
 1433,es,1
 1433,non-en,1
 1999,Drama,1
@@ -5574,21 +5574,21 @@
 3537,fr,1
 3537,en,1
 8738,Action,1
-8738,Science Fiction,1
+8738,sci_fi,1
 8738,ru,1
 8738,en,1
 8738,ja,1
 8738,en,1
-3604,Science Fiction,1
+3604,sci_fi,1
 3604,en,1
 3604,en,1
 6974,Adventure,1
-6974,Science Fiction,1
+6974,sci_fi,1
 6974,en,1
 6974,en,1
 26398,Adventure,1
 26398,Fantasy,1
-26398,Science Fiction,1
+26398,sci_fi,1
 26398,en,1
 26398,en,1
 299,Thriller,1
@@ -5631,11 +5631,11 @@
 1649,Comedy,1
 1649,Family,1
 1649,Fantasy,1
-1649,Science Fiction,1
+1649,sci_fi,1
 1649,en,1
 1649,en,1
 26978,Adventure,1
-26978,Science Fiction,1
+26978,sci_fi,1
 26978,en,1
 26978,en,1
 120,Adventure,1
@@ -5707,7 +5707,7 @@
 848,hu,1
 848,en,1
 4965,Action,1
-4965,Science Fiction,1
+4965,sci_fi,1
 4965,Thriller,1
 4965,en,1
 4965,en,1
@@ -5796,7 +5796,7 @@
 7219,en,1
 7219,it,1
 7219,en,1
-2135,Science Fiction,1
+2135,sci_fi,1
 2135,Adventure,1
 2135,Action,1
 2135,en,1
@@ -5824,7 +5824,7 @@
 8690,it,1
 8690,non-en,1
 3418,Drama,1
-3418,Science Fiction,1
+3418,sci_fi,1
 3418,en,1
 3418,fr,1
 3418,de,1
@@ -5891,7 +5891,7 @@
 32617,en,1
 2565,Fantasy,1
 2565,Comedy,1
-2565,Science Fiction,1
+2565,sci_fi,1
 2565,Romance,1
 2565,en,1
 2565,en,1
@@ -5946,7 +5946,7 @@
 245,en,1
 1894,Adventure,1
 1894,Action,1
-1894,Science Fiction,1
+1894,sci_fi,1
 1894,en,1
 1894,en,1
 4012,Drama,1
@@ -5965,7 +5965,7 @@
 320,en,1
 27834,Comedy,1
 27834,Drama,1
-27834,Science Fiction,1
+27834,sci_fi,1
 27834,fr,1
 27834,en,1
 27834,en,1
@@ -6021,7 +6021,7 @@
 103299,en,1
 180,Action,1
 180,Thriller,1
-180,Science Fiction,1
+180,sci_fi,1
 180,Mystery,1
 180,en,1
 180,sv,1
@@ -6033,7 +6033,7 @@
 608,Action,1
 608,Adventure,1
 608,Comedy,1
-608,Science Fiction,1
+608,sci_fi,1
 608,en,1
 608,en,1
 59387,Animation,1
@@ -6084,7 +6084,7 @@
 8665,en,1
 818,Comedy,1
 818,Crime,1
-818,Science Fiction,1
+818,sci_fi,1
 818,en,1
 818,ja,1
 818,de,1
@@ -6105,7 +6105,7 @@
 3780,non-en,1
 2675,Drama,1
 2675,Thriller,1
-2675,Science Fiction,1
+2675,sci_fi,1
 2675,Mystery,1
 2675,en,1
 2675,pt,1
@@ -6134,7 +6134,7 @@
 8653,ko,1
 8653,non-en,1
 3127,Horror,1
-3127,Science Fiction,1
+3127,sci_fi,1
 3127,en,1
 3127,la,1
 3127,en,1
@@ -6190,7 +6190,7 @@
 2110,ru,1
 2110,non-en,1
 1682,Fantasy,1
-1682,Science Fiction,1
+1682,sci_fi,1
 1682,Action,1
 1682,Adventure,1
 1682,ja,1
@@ -6331,7 +6331,7 @@
 64,es,1
 64,non-en,1
 2103,Drama,1
-2103,Science Fiction,1
+2103,sci_fi,1
 2103,Mystery,1
 2103,Romance,1
 2103,en,1
@@ -6340,7 +6340,7 @@
 6007,Drama,1
 6007,no,1
 6007,non-en,1
-7011,Science Fiction,1
+7011,sci_fi,1
 7011,Fantasy,1
 7011,Horror,1
 7011,Adventure,1
@@ -6353,7 +6353,7 @@
 2757,la,1
 2757,en,1
 7299,Action,1
-7299,Science Fiction,1
+7299,sci_fi,1
 7299,Thriller,1
 7299,en,1
 7299,en,1
@@ -6378,7 +6378,7 @@
 40952,en,1
 40952,es,1
 40952,en,1
-38849,Science Fiction,1
+38849,sci_fi,1
 38849,Thriller,1
 38849,en,1
 38849,en,1
@@ -6397,7 +6397,7 @@
 7303,en,1
 7303,fr,1
 7303,en,1
-201,Science Fiction,1
+201,sci_fi,1
 201,Action,1
 201,Adventure,1
 201,Thriller,1
@@ -6524,7 +6524,7 @@
 65300,Thriller,1
 65300,Drama,1
 65300,Mystery,1
-65300,Science Fiction,1
+65300,sci_fi,1
 65300,en,1
 65300,en,1
 4628,Adventure,1
@@ -6546,7 +6546,7 @@
 4193,en,1
 3028,Comedy,1
 3028,Horror,1
-3028,Science Fiction,1
+3028,sci_fi,1
 3028,en,1
 3028,en,1
 127,Drama,1
@@ -6580,7 +6580,7 @@
 26172,en,1
 26172,en,1
 991,Drama,1
-991,Science Fiction,1
+991,sci_fi,1
 991,en,1
 991,en,1
 4911,Action,1
@@ -6605,7 +6605,7 @@
 77233,Fantasy,1
 77233,Drama,1
 77233,Comedy,1
-77233,Science Fiction,1
+77233,sci_fi,1
 77233,en,1
 77233,en,1
 1591,Drama,1
@@ -6762,7 +6762,7 @@
 4708,en,1
 170,Horror,1
 170,Thriller,1
-170,Science Fiction,1
+170,sci_fi,1
 170,es,1
 170,en,1
 170,en,1
@@ -6804,13 +6804,13 @@
 6949,en,1
 1927,Drama,1
 1927,Action,1
-1927,Science Fiction,1
+1927,sci_fi,1
 1927,en,1
 1927,es,1
 1927,en,1
 296,Action,1
 296,Thriller,1
-296,Science Fiction,1
+296,sci_fi,1
 296,women_writer_director,1
 296,en,1
 296,en,1
@@ -6827,7 +6827,7 @@
 8698,Fantasy,1
 8698,Action,1
 8698,Thriller,1
-8698,Science Fiction,1
+8698,sci_fi,1
 8698,en,1
 8698,de,1
 8698,it,1
@@ -7027,7 +7027,7 @@
 4703,en,1
 2687,Comedy,1
 2687,Fantasy,1
-2687,Science Fiction,1
+2687,sci_fi,1
 2687,en,1
 2687,en,1
 277,Fantasy,1
@@ -7065,7 +7065,7 @@
 5168,non-en,1
 837,Horror,1
 837,Mystery,1
-837,Science Fiction,1
+837,sci_fi,1
 837,en,1
 837,en,1
 821,Drama,1
@@ -7157,7 +7157,7 @@
 1550,en,1
 5493,Action,1
 5493,Adventure,1
-5493,Science Fiction,1
+5493,sci_fi,1
 5493,en,1
 5493,ja,1
 5493,en,1
@@ -7176,7 +7176,7 @@
 2348,en,1
 2348,en,1
 3117,Horror,1
-3117,Science Fiction,1
+3117,sci_fi,1
 3117,en,1
 3117,en,1
 27450,Romance,1
@@ -7197,7 +7197,7 @@
 605,Adventure,1
 605,Action,1
 605,Thriller,1
-605,Science Fiction,1
+605,sci_fi,1
 605,women_writer_director,1
 605,en,1
 605,fr,1
@@ -7232,7 +7232,7 @@
 470,en,1
 1702,Action,1
 1702,Horror,1
-1702,Science Fiction,1
+1702,sci_fi,1
 1702,Thriller,1
 1702,en,1
 1702,en,1
@@ -7242,7 +7242,7 @@
 4823,en,1
 4823,en,1
 860,Thriller,1
-860,Science Fiction,1
+860,sci_fi,1
 860,en,1
 860,en,1
 48035,Drama,1
@@ -7275,14 +7275,14 @@
 5227,Adventure,1
 5227,Comedy,1
 5227,Fantasy,1
-5227,Science Fiction,1
+5227,sci_fi,1
 5227,en,1
 5227,hu,1
 5227,es,1
 5227,en,1
 8010,Action,1
 8010,Fantasy,1
-8010,Science Fiction,1
+8010,sci_fi,1
 8010,en,1
 8010,en,1
 2297,Comedy,1
@@ -7311,7 +7311,7 @@
 2007,en,1
 2612,Fantasy,1
 2612,Comedy,1
-2612,Science Fiction,1
+2612,sci_fi,1
 2612,Romance,1
 2612,en,1
 2612,hu,1
@@ -7454,7 +7454,7 @@
 2742,en,1
 2742,en,1
 3596,Drama,1
-3596,Science Fiction,1
+3596,sci_fi,1
 3596,en,1
 3596,en,1
 120637,Comedy,1
@@ -7535,7 +7535,7 @@
 427,non-en,1
 3022,Drama,1
 3022,Horror,1
-3022,Science Fiction,1
+3022,sci_fi,1
 3022,en,1
 3022,en,1
 778,Comedy,1
@@ -7587,10 +7587,10 @@
 27329,th,1
 27329,non-en,1
 114046,Comedy,1
-114046,Science Fiction,1
+114046,sci_fi,1
 114046,en,1
 114046,en,1
-1954,Science Fiction,1
+1954,sci_fi,1
 1954,Thriller,1
 1954,en,1
 1954,en,1
@@ -7666,7 +7666,7 @@
 924,en,1
 924,it,1
 924,en,1
-38,Science Fiction,1
+38,sci_fi,1
 38,Drama,1
 38,Romance,1
 38,en,1
@@ -7693,7 +7693,7 @@
 553,en,1
 1487,Fantasy,1
 1487,Action,1
-1487,Science Fiction,1
+1487,sci_fi,1
 1487,ru,1
 1487,en,1
 1487,en,1
@@ -7723,7 +7723,7 @@
 3591,en,1
 3591,en,1
 68347,Horror,1
-68347,Science Fiction,1
+68347,sci_fi,1
 68347,en,1
 68347,en,1
 2098,Comedy,1
@@ -7902,7 +7902,7 @@
 4923,Fantasy,1
 4923,Action,1
 4923,Thriller,1
-4923,Science Fiction,1
+4923,sci_fi,1
 4923,en,1
 4923,en,1
 465,Romance,1
@@ -7913,7 +7913,7 @@
 876,Action,1
 876,Adventure,1
 876,Fantasy,1
-876,Science Fiction,1
+876,sci_fi,1
 876,en,1
 876,fr,1
 876,it,1
@@ -7936,7 +7936,7 @@
 5927,en,1
 5927,en,1
 3075,Horror,1
-3075,Science Fiction,1
+3075,sci_fi,1
 3075,en,1
 3075,en,1
 5521,Drama,1
@@ -8051,7 +8051,7 @@
 316,non-en,1
 3072,Drama,1
 3072,Horror,1
-3072,Science Fiction,1
+3072,sci_fi,1
 3072,en,1
 3072,en,1
 250,Action,1
@@ -8075,7 +8075,7 @@
 51182,en,1
 48385,Crime,1
 48385,Horror,1
-48385,Science Fiction,1
+48385,sci_fi,1
 48385,en,1
 48385,en,1
 43011,Adventure,1
@@ -8091,7 +8091,7 @@
 439,it,1
 439,en,1
 823,Animation,1
-823,Science Fiction,1
+823,sci_fi,1
 823,Thriller,1
 823,ja,1
 823,non-en,1
@@ -8182,7 +8182,7 @@
 809,en,1
 435,Action,1
 435,Adventure,1
-435,Science Fiction,1
+435,sci_fi,1
 435,Thriller,1
 435,en,1
 435,ja,1
@@ -8208,7 +8208,7 @@
 246,ja,1
 246,non-en,1
 2789,Action,1
-2789,Science Fiction,1
+2789,sci_fi,1
 2789,en,1
 2789,en,1
 8920,Animation,1
@@ -8228,7 +8228,7 @@
 46976,en,1
 831,Mystery,1
 831,Adventure,1
-831,Science Fiction,1
+831,sci_fi,1
 831,Horror,1
 831,Thriller,1
 831,en,1
@@ -8237,7 +8237,7 @@
 62000,en,1
 62000,en,1
 662,Romance,1
-662,Science Fiction,1
+662,sci_fi,1
 662,fr,1
 662,de,1
 662,non-en,1
@@ -8255,7 +8255,7 @@
 26973,en,1
 26973,en,1
 3019,Horror,1
-3019,Science Fiction,1
+3019,sci_fi,1
 3019,en,1
 3019,en,1
 3515,Drama,1
@@ -8356,7 +8356,7 @@
 80,fr,1
 80,en,1
 2048,Action,1
-2048,Science Fiction,1
+2048,sci_fi,1
 2048,en,1
 2048,en,1
 436,Drama,1
@@ -8451,7 +8451,7 @@
 1538,en,1
 2577,Drama,1
 2577,Romance,1
-2577,Science Fiction,1
+2577,sci_fi,1
 2577,Thriller,1
 2577,en,1
 2577,en,1
@@ -8463,7 +8463,7 @@
 60760,fr,1
 60760,non-en,1
 395,Adventure,1
-395,Science Fiction,1
+395,sci_fi,1
 395,Action,1
 395,it,1
 395,en,1
@@ -8480,7 +8480,7 @@
 45335,en,1
 65596,Comedy,1
 65596,Fantasy,1
-65596,Science Fiction,1
+65596,sci_fi,1
 65596,Family,1
 65596,en,1
 65596,en,1
@@ -8498,7 +8498,7 @@
 5137,Mystery,1
 5137,Action,1
 5137,Thriller,1
-5137,Science Fiction,1
+5137,sci_fi,1
 5137,Adventure,1
 5137,bo,1
 5137,de,1
@@ -8563,7 +8563,7 @@
 3053,en,1
 2319,Fantasy,1
 2319,Drama,1
-2319,Science Fiction,1
+2319,sci_fi,1
 2319,Family,1
 2319,de,1
 2319,non-en,1
@@ -8653,11 +8653,11 @@
 163,en,1
 3016,Drama,1
 3016,Horror,1
-3016,Science Fiction,1
+3016,sci_fi,1
 3016,en,1
 3016,en,1
 2972,Horror,1
-2972,Science Fiction,1
+2972,sci_fi,1
 2972,Thriller,1
 2972,xx,1
 2972,non-en,1
@@ -8735,7 +8735,7 @@
 779,non-en,1
 3031,Adventure,1
 3031,Horror,1
-3031,Science Fiction,1
+3031,sci_fi,1
 3031,en,1
 3031,es,1
 3031,en,1
@@ -8779,7 +8779,7 @@
 800,non-en,1
 3023,Comedy,1
 3023,Horror,1
-3023,Science Fiction,1
+3023,sci_fi,1
 3023,en,1
 3023,en,1
 3111,Drama,1
@@ -8849,7 +8849,7 @@
 3763,ja,1
 3763,non-en,1
 7348,Drama,1
-7348,Science Fiction,1
+7348,sci_fi,1
 7348,en,1
 7348,en,1
 895,Drama,1
@@ -8861,7 +8861,7 @@
 2661,Family,1
 2661,Adventure,1
 2661,Comedy,1
-2661,Science Fiction,1
+2661,sci_fi,1
 2661,Crime,1
 2661,en,1
 2661,en,1
@@ -8872,7 +8872,7 @@
 789,de,1
 789,non-en,1
 2097,Horror,1
-2097,Science Fiction,1
+2097,sci_fi,1
 2097,ja,1
 2097,non-en,1
 135,Documentary,1
@@ -8926,7 +8926,7 @@
 26606,Music,1
 26606,en,1
 26606,en,1
-839,TV Movie,1
+839,TV,1
 839,Action,1
 839,Thriller,1
 839,en,1
@@ -8953,7 +8953,7 @@
 760,yi,1
 760,en,1
 1410,Comedy,1
-1410,Science Fiction,1
+1410,sci_fi,1
 1410,en,1
 1410,en,1
 3043,Horror,1
@@ -9024,15 +9024,15 @@
 86295,Drama,1
 86295,en,1
 86295,en,1
-6341,Science Fiction,1
+6341,sci_fi,1
 6341,Action,1
 6341,Thriller,1
 6341,Crime,1
 6341,Drama,1
 6341,en,1
 6341,en,1
-7012,TV Movie,1
-7012,Science Fiction,1
+7012,TV,1
+7012,sci_fi,1
 7012,Drama,1
 7012,en,1
 7012,en,1
@@ -9050,8 +9050,8 @@
 1884,Adventure,1
 1884,Family,1
 1884,Fantasy,1
-1884,Science Fiction,1
-1884,TV Movie,1
+1884,sci_fi,1
+1884,TV,1
 1884,en,1
 1884,en,1
 33138,Documentary,1
@@ -9106,12 +9106,12 @@
 4271,women_writer_director,1
 4271,fr,1
 4271,non-en,1
-2927,Science Fiction,1
+2927,sci_fi,1
 2927,en,1
 2927,en,1
 25943,Fantasy,1
 25943,Comedy,1
-25943,Science Fiction,1
+25943,sci_fi,1
 25943,en,1
 25943,en,1
 1662,Drama,1
@@ -9172,7 +9172,7 @@
 2061,non-en,1
 2460,Drama,1
 2460,Romance,1
-2460,Science Fiction,1
+2460,sci_fi,1
 2460,es,1
 2460,non-en,1
 26124,Crime,1
@@ -9183,7 +9183,7 @@
 26124,en,1
 8765,Thriller,1
 8765,Fantasy,1
-8765,Science Fiction,1
+8765,sci_fi,1
 8765,en,1
 8765,it,1
 8765,en,1
@@ -9198,7 +9198,7 @@
 26215,ru,1
 26215,en,1
 5470,Action,1
-5470,Science Fiction,1
+5470,sci_fi,1
 5470,Thriller,1
 5470,Adventure,1
 5470,Horror,1
@@ -9259,7 +9259,7 @@
 5458,en,1
 844,Fantasy,1
 844,Drama,1
-844,Science Fiction,1
+844,sci_fi,1
 844,Romance,1
 844,cn,1
 844,ja,1
@@ -9327,7 +9327,7 @@
 919,Horror,1
 919,Comedy,1
 919,Thriller,1
-919,Science Fiction,1
+919,sci_fi,1
 919,en,1
 919,ja,1
 919,en,1
@@ -9341,12 +9341,12 @@
 6382,en,1
 2191,Thriller,1
 2191,Drama,1
-2191,Science Fiction,1
+2191,sci_fi,1
 2191,en,1
 2191,de,1
 2191,en,1
 437,Thriller,1
-437,Science Fiction,1
+437,sci_fi,1
 437,Mystery,1
 437,women_writer_director,1
 437,en,1
@@ -9370,7 +9370,7 @@
 4689,non-en,1
 5552,Drama,1
 5552,Action,1
-5552,Science Fiction,1
+5552,sci_fi,1
 5552,en,1
 5552,fr,1
 5552,en,1
@@ -9384,7 +9384,7 @@
 26491,en,1
 5844,Action,1
 5844,Drama,1
-5844,Science Fiction,1
+5844,sci_fi,1
 5844,Thriller,1
 5844,Horror,1
 5844,ja,1
@@ -9511,7 +9511,7 @@
 4896,de,1
 4896,en,1
 3509,Animation,1
-3509,Science Fiction,1
+3509,sci_fi,1
 3509,Thriller,1
 3509,en,1
 3509,en,1
@@ -9659,7 +9659,7 @@
 2436,Action,1
 2436,Adventure,1
 2436,Comedy,1
-2436,Science Fiction,1
+2436,sci_fi,1
 2436,en,1
 2436,fr,1
 2436,en,1
@@ -9781,7 +9781,7 @@
 43912,en,1
 3115,Fantasy,1
 3115,Action,1
-3115,Science Fiction,1
+3115,sci_fi,1
 3115,Foreign,1
 3115,ja,1
 3115,non-en,1
@@ -9789,7 +9789,7 @@
 6593,Drama,1
 6593,Fantasy,1
 6593,Foreign,1
-6593,Science Fiction,1
+6593,sci_fi,1
 6593,ja,1
 6593,non-en,1
 33539,Animation,1
@@ -9807,7 +9807,7 @@
 1093,fr,1
 1093,non-en,1
 438,Mystery,1
-438,Science Fiction,1
+438,sci_fi,1
 438,Thriller,1
 438,es,1
 438,en,1
@@ -9875,7 +9875,7 @@
 4595,non-en,1
 775,Adventure,1
 775,Fantasy,1
-775,Science Fiction,1
+775,sci_fi,1
 775,fr,1
 775,xx,1
 775,non-en,1
@@ -9885,7 +9885,7 @@
 50183,de,1
 50183,ru,1
 50183,non-en,1
-7342,TV Movie,1
+7342,TV,1
 7342,Drama,1
 7342,Horror,1
 7342,en,1
@@ -9905,7 +9905,7 @@
 7453,Adventure,1
 7453,Comedy,1
 7453,Family,1
-7453,Science Fiction,1
+7453,sci_fi,1
 7453,en,1
 7453,en,1
 6183,Romance,1
@@ -9955,7 +9955,7 @@
 1279,Drama,1
 1279,ko,1
 1279,non-en,1
-1895,Science Fiction,1
+1895,sci_fi,1
 1895,Adventure,1
 1895,Action,1
 1895,en,1
@@ -10017,12 +10017,12 @@
 276,de,1
 276,non-en,1
 38046,Action,1
-38046,Science Fiction,1
+38046,sci_fi,1
 38046,en,1
 38046,en,1
 2151,Comedy,1
 2151,Horror,1
-2151,Science Fiction,1
+2151,sci_fi,1
 2151,en,1
 2151,en,1
 2095,Thriller,1
@@ -10036,7 +10036,7 @@
 26762,en,1
 74,Adventure,1
 74,Thriller,1
-74,Science Fiction,1
+74,sci_fi,1
 74,en,1
 74,en,1
 4889,Thriller,1
@@ -10071,7 +10071,7 @@
 36401,non-en,1
 1635,Action,1
 1635,Thriller,1
-1635,Science Fiction,1
+1635,sci_fi,1
 1635,Adventure,1
 1635,en,1
 1635,en,1
@@ -10117,7 +10117,7 @@
 27292,en,1
 52660,Comedy,1
 52660,Mystery,1
-52660,TV Movie,1
+52660,TV,1
 52660,Horror,1
 52660,Fantasy,1
 52660,en,1
@@ -10196,7 +10196,7 @@
 3118,fr,1
 3118,non-en,1
 2125,Action,1
-2125,Science Fiction,1
+2125,sci_fi,1
 2125,Thriller,1
 2125,en,1
 2125,en,1
@@ -10328,7 +10328,7 @@
 1951,en,1
 25763,Action,1
 25763,Adventure,1
-25763,Science Fiction,1
+25763,sci_fi,1
 25763,es,1
 25763,en,1
 25763,en,1
@@ -10410,7 +10410,7 @@
 7010,en,1
 7010,en,1
 3124,Horror,1
-3124,Science Fiction,1
+3124,sci_fi,1
 3124,en,1
 3124,en,1
 2153,Action,1
@@ -10522,7 +10522,7 @@
 1690,en,1
 834,Fantasy,1
 834,Action,1
-834,Science Fiction,1
+834,sci_fi,1
 834,Thriller,1
 834,en,1
 834,fr,1
@@ -10672,7 +10672,7 @@
 186,en,1
 186,en,1
 8410,Drama,1
-8410,Science Fiction,1
+8410,sci_fi,1
 8410,en,1
 8410,en,1
 219,Comedy,1
@@ -10813,7 +10813,7 @@
 4474,Action,1
 4474,Comedy,1
 4474,Crime,1
-4474,Science Fiction,1
+4474,sci_fi,1
 4474,en,1
 4474,en,1
 4962,Drama,1
@@ -10842,7 +10842,7 @@
 8997,Horror,1
 8997,Action,1
 8997,Thriller,1
-8997,Science Fiction,1
+8997,sci_fi,1
 8997,en,1
 8997,en,1
 410,Comedy,1
@@ -11001,7 +11001,7 @@
 1963,non-en,1
 1381,Drama,1
 1381,Adventure,1
-1381,Science Fiction,1
+1381,sci_fi,1
 1381,Romance,1
 1381,en,1
 1381,en,1
@@ -11098,7 +11098,7 @@
 1422,en,1
 3593,Adventure,1
 3593,Horror,1
-3593,Science Fiction,1
+3593,sci_fi,1
 3593,en,1
 3593,en,1
 1975,Horror,1
@@ -11177,7 +11177,7 @@
 1427,en,1
 1427,en,1
 4928,Drama,1
-4928,Science Fiction,1
+4928,sci_fi,1
 4928,fr,1
 4928,en,1
 4928,en,1
@@ -11387,7 +11387,7 @@
 5172,Adventure,1
 5172,Comedy,1
 5172,Drama,1
-5172,Science Fiction,1
+5172,sci_fi,1
 5172,en,1
 5172,en,1
 2016,Drama,1
@@ -11397,7 +11397,7 @@
 2016,fr,1
 2016,non-en,1
 3024,Drama,1
-3024,Science Fiction,1
+3024,sci_fi,1
 3024,Thriller,1
 3024,en,1
 3024,en,1
@@ -11453,7 +11453,7 @@
 5691,en,1
 5691,en,1
 1738,Action,1
-1738,Science Fiction,1
+1738,sci_fi,1
 1738,Thriller,1
 1738,en,1
 1738,fr,1
@@ -11478,14 +11478,14 @@
 7006,en,1
 27864,Drama,1
 27864,Fantasy,1
-27864,Science Fiction,1
+27864,sci_fi,1
 27864,Thriller,1
 27864,women_writer_director,1
 27864,en,1
 27864,en,1
 8965,Fantasy,1
 8965,Animation,1
-8965,Science Fiction,1
+8965,sci_fi,1
 8965,Family,1
 8965,Action,1
 8965,en,1
@@ -11509,7 +11509,7 @@
 6691,en,1
 1255,Horror,1
 1255,Drama,1
-1255,Science Fiction,1
+1255,sci_fi,1
 1255,ko,1
 1255,non-en,1
 31040,Drama,1
@@ -11550,7 +11550,7 @@
 4657,en,1
 8199,Drama,1
 8199,Romance,1
-8199,Science Fiction,1
+8199,sci_fi,1
 8199,en,1
 8199,en,1
 5177,Comedy,1
@@ -11572,7 +11572,7 @@
 1267,Family,1
 1267,en,1
 1267,en,1
-1272,Science Fiction,1
+1272,sci_fi,1
 1272,Thriller,1
 1272,en,1
 1272,en,1
@@ -11637,7 +11637,7 @@
 4977,Animation,1
 4977,Drama,1
 4977,Mystery,1
-4977,Science Fiction,1
+4977,sci_fi,1
 4977,Thriller,1
 4977,en,1
 4977,ja,1
@@ -11669,7 +11669,7 @@
 2976,en,1
 1562,Horror,1
 1562,Thriller,1
-1562,Science Fiction,1
+1562,sci_fi,1
 1562,en,1
 1562,en,1
 810,Fantasy,1
@@ -11807,7 +11807,7 @@
 2698,en,1
 2698,en,1
 1858,Adventure,1
-1858,Science Fiction,1
+1858,sci_fi,1
 1858,Action,1
 1858,es,1
 1858,en,1
@@ -12189,7 +12189,7 @@
 25755,Drama,1
 25755,Fantasy,1
 25755,Romance,1
-25755,Science Fiction,1
+25755,sci_fi,1
 25755,en,1
 25755,zh,1
 25755,th,1
@@ -12250,11 +12250,11 @@
 6639,en,1
 6639,en,1
 4723,Comedy,1
-4723,Science Fiction,1
+4723,sci_fi,1
 4723,Thriller,1
 4723,en,1
 4723,en,1
-5876,Science Fiction,1
+5876,sci_fi,1
 5876,Horror,1
 5876,Thriller,1
 5876,en,1
@@ -12284,7 +12284,7 @@
 6479,Horror,1
 6479,Action,1
 6479,Thriller,1
-6479,Science Fiction,1
+6479,sci_fi,1
 6479,en,1
 6479,en,1
 6477,Comedy,1
@@ -12349,7 +12349,7 @@
 6538,en,1
 440,Fantasy,1
 440,Action,1
-440,Science Fiction,1
+440,sci_fi,1
 440,Thriller,1
 440,Horror,1
 440,en,1
@@ -12388,7 +12388,7 @@
 2312,en,1
 7191,Action,1
 7191,Thriller,1
-7191,Science Fiction,1
+7191,sci_fi,1
 7191,ru,1
 7191,en,1
 7191,en,1
@@ -12525,7 +12525,7 @@
 8827,non-en,1
 7459,Action,1
 7459,Family,1
-7459,Science Fiction,1
+7459,sci_fi,1
 7459,women_writer_director,1
 7459,en,1
 7459,en,1
@@ -12548,7 +12548,7 @@
 1810,it,1
 1810,en,1
 1726,Action,1
-1726,Science Fiction,1
+1726,sci_fi,1
 1726,Adventure,1
 1726,en,1
 1726,fa,1
@@ -12589,16 +12589,16 @@
 4857,fr,1
 4857,en,1
 3687,Comedy,1
-3687,Science Fiction,1
+3687,sci_fi,1
 3687,en,1
 3687,en,1
 2982,Adventure,1
 2982,Fantasy,1
-2982,Science Fiction,1
+2982,sci_fi,1
 2982,en,1
 2982,en,1
 8645,Thriller,1
-8645,Science Fiction,1
+8645,sci_fi,1
 8645,en,1
 8645,fr,1
 8645,en,1
@@ -12685,7 +12685,7 @@
 32666,non-en,1
 8836,Drama,1
 8836,Mystery,1
-8836,Science Fiction,1
+8836,sci_fi,1
 8836,Thriller,1
 8836,en,1
 8836,en,1
@@ -12777,7 +12777,7 @@
 47721,sv,1
 47721,en,1
 1984,Drama,1
-1984,Science Fiction,1
+1984,sci_fi,1
 1984,en,1
 1984,en,1
 50011,Drama,1
@@ -12809,7 +12809,7 @@
 4960,en,1
 4960,en,1
 2397,Action,1
-2397,Science Fiction,1
+2397,sci_fi,1
 2397,en,1
 2397,en,1
 25741,Animation,1
@@ -12822,7 +12822,7 @@
 25741,en,1
 8338,Drama,1
 8338,Mystery,1
-8338,Science Fiction,1
+8338,sci_fi,1
 8338,Thriller,1
 8338,ja,1
 8338,en,1
@@ -12955,7 +12955,7 @@
 4148,Romance,1
 4148,en,1
 4148,en,1
-31047,TV Movie,1
+31047,TV,1
 31047,Drama,1
 31047,Thriller,1
 31047,Crime,1
@@ -13019,7 +13019,7 @@
 98193,ja,1
 98193,non-en,1
 5677,Horror,1
-5677,Science Fiction,1
+5677,sci_fi,1
 5677,Crime,1
 5677,en,1
 5677,fr,1
@@ -13042,7 +13042,7 @@
 8832,it,1
 8832,non-en,1
 7916,Action,1
-7916,Science Fiction,1
+7916,sci_fi,1
 7916,Thriller,1
 7916,en,1
 7916,en,1
@@ -13087,7 +13087,7 @@
 43396,en,1
 43396,en,1
 3632,Action,1
-3632,Science Fiction,1
+3632,sci_fi,1
 3632,en,1
 3632,en,1
 1940,Music,1
@@ -13114,7 +13114,7 @@
 2080,Adventure,1
 2080,Action,1
 2080,Thriller,1
-2080,Science Fiction,1
+2080,sci_fi,1
 2080,en,1
 2080,en,1
 6461,Drama,1
@@ -13129,7 +13129,7 @@
 42738,en,1
 42738,en,1
 534,Action,1
-534,Science Fiction,1
+534,sci_fi,1
 534,Thriller,1
 534,en,1
 534,it,1
@@ -13187,7 +13187,7 @@
 4250,de,1
 4250,it,1
 4250,non-en,1
-8373,Science Fiction,1
+8373,sci_fi,1
 8373,Action,1
 8373,Adventure,1
 8373,en,1
@@ -13224,7 +13224,7 @@
 4931,en,1
 8884,Drama,1
 8884,Fantasy,1
-8884,Science Fiction,1
+8884,sci_fi,1
 8884,en,1
 8884,en,1
 767,Adventure,1
@@ -13291,7 +13291,7 @@
 5060,en,1
 2979,Comedy,1
 2979,Fantasy,1
-2979,Science Fiction,1
+2979,sci_fi,1
 2979,en,1
 2979,en,1
 3511,Thriller,1
@@ -13342,7 +13342,7 @@
 85763,Action,1
 85763,en,1
 85763,en,1
-2973,Science Fiction,1
+2973,sci_fi,1
 2973,Adventure,1
 2973,Drama,1
 2973,Fantasy,1
@@ -13454,7 +13454,7 @@
 25769,Action,1
 25769,Drama,1
 25769,Horror,1
-25769,Science Fiction,1
+25769,sci_fi,1
 25769,Thriller,1
 25769,en,1
 25769,en,1
@@ -13483,7 +13483,7 @@
 1450,Action,1
 1450,Adventure,1
 1450,Horror,1
-1450,Science Fiction,1
+1450,sci_fi,1
 1450,Thriller,1
 1450,en,1
 1450,ja,1
@@ -13571,7 +13571,7 @@
 26558,en,1
 26558,en,1
 31867,Action,1
-31867,Science Fiction,1
+31867,sci_fi,1
 31867,Thriller,1
 31867,Crime,1
 31867,en,1
@@ -13802,7 +13802,7 @@
 27843,ja,1
 27843,non-en,1
 26682,Action,1
-26682,TV Movie,1
+26682,TV,1
 26682,Drama,1
 26682,en,1
 26682,en,1
@@ -13957,7 +13957,7 @@
 3592,en,1
 3592,en,1
 27441,Thriller,1
-27441,Science Fiction,1
+27441,sci_fi,1
 27441,en,1
 27441,en,1
 4706,Mystery,1
@@ -14009,7 +14009,7 @@
 44115,en,1
 3007,Drama,1
 3007,Comedy,1
-3007,Science Fiction,1
+3007,sci_fi,1
 3007,Romance,1
 3007,women_writer_director,1
 3007,de,1
@@ -14056,7 +14056,7 @@
 80572,en,1
 32234,Comedy,1
 32234,Horror,1
-32234,Science Fiction,1
+32234,sci_fi,1
 32234,Thriller,1
 32234,ja,1
 32234,non-en,1
@@ -14081,7 +14081,7 @@
 26138,non-en,1
 8464,Horror,1
 8464,Comedy,1
-8464,Science Fiction,1
+8464,sci_fi,1
 8464,en,1
 8464,en,1
 481,Drama,1
@@ -14134,7 +14134,7 @@
 2325,de,1
 2325,ru,1
 2325,en,1
-4798,Science Fiction,1
+4798,sci_fi,1
 4798,Drama,1
 4798,nl,1
 4798,en,1
@@ -14216,7 +14216,7 @@
 49494,en,1
 49494,en,1
 44943,Action,1
-44943,Science Fiction,1
+44943,sci_fi,1
 44943,en,1
 44943,en,1
 8770,Documentary,1
@@ -14314,7 +14314,7 @@
 55721,en,1
 55721,en,1
 1679,Action,1
-1679,Science Fiction,1
+1679,sci_fi,1
 1679,Horror,1
 1679,ja,1
 1679,non-en,1
@@ -14342,7 +14342,7 @@
 5937,uk,1
 5937,en,1
 3107,Action,1
-3107,Science Fiction,1
+3107,sci_fi,1
 3107,Thriller,1
 3107,Horror,1
 3107,ja,1
@@ -14373,7 +14373,7 @@
 103203,wo,1
 103203,non-en,1
 114044,Drama,1
-114044,Science Fiction,1
+114044,sci_fi,1
 114044,non-en,1
 57536,Documentary,1
 57536,ca,1
@@ -14410,13 +14410,13 @@
 4641,Comedy,1
 4641,Drama,1
 4641,Family,1
-4641,TV Movie,1
+4641,TV,1
 4641,women_writer_director,1
 4641,en,1
 4641,en,1
 1771,Action,1
 1771,Adventure,1
-1771,Science Fiction,1
+1771,sci_fi,1
 1771,fr,1
 1771,no,1
 1771,en,1
@@ -14473,7 +14473,7 @@
 4938,en,1
 59392,Drama,1
 59392,Romance,1
-59392,Science Fiction,1
+59392,sci_fi,1
 59392,en,1
 59392,fr,1
 59392,en,1
@@ -14537,7 +14537,7 @@
 33592,en,1
 31116,Thriller,1
 31116,Fantasy,1
-31116,Science Fiction,1
+31116,sci_fi,1
 31116,Horror,1
 31116,Drama,1
 31116,en,1
@@ -14570,7 +14570,7 @@
 133123,non-en,1
 49530,Action,1
 49530,Thriller,1
-49530,Science Fiction,1
+49530,sci_fi,1
 49530,en,1
 49530,en,1
 71677,Drama,1
@@ -14640,10 +14640,10 @@
 125700,non-en,1
 74135,Action,1
 74135,Mystery,1
-74135,Science Fiction,1
+74135,sci_fi,1
 74135,ja,1
 74135,non-en,1
-25834,Science Fiction,1
+25834,sci_fi,1
 25834,Horror,1
 25834,en,1
 25834,en,1
@@ -14736,7 +14736,7 @@
 57243,non-en,1
 71254,Action,1
 71254,Thriller,1
-71254,Science Fiction,1
+71254,sci_fi,1
 71254,en,1
 71254,zh,1
 71254,en,1
@@ -14767,7 +14767,7 @@
 55245,women_writer_director,1
 55245,non-en,1
 2929,Horror,1
-2929,Science Fiction,1
+2929,sci_fi,1
 2929,women_writer_director,1
 2929,xx,1
 2929,non-en,1
@@ -14780,7 +14780,7 @@
 62764,Fantasy,1
 62764,Drama,1
 62764,Comedy,1
-62764,Science Fiction,1
+62764,sci_fi,1
 62764,Family,1
 62764,en,1
 62764,en,1
@@ -14813,7 +14813,7 @@
 27646,women_writer_director,1
 27646,en,1
 27646,en,1
-77561,Science Fiction,1
+77561,sci_fi,1
 77561,es,1
 77561,non-en,1
 50601,War,1
@@ -15016,7 +15016,7 @@
 43652,de,1
 43652,non-en,1
 132961,non-en,1
-94480,Science Fiction,1
+94480,sci_fi,1
 94480,Horror,1
 94480,en,1
 94480,en,1
@@ -15093,7 +15093,7 @@
 92681,en,1
 84834,Crime,1
 84834,Drama,1
-84834,TV Movie,1
+84834,TV,1
 84834,Thriller,1
 84834,en,1
 84834,en,1
@@ -15204,7 +15204,7 @@
 91694,non-en,1
 3146,Action,1
 3146,Horror,1
-3146,Science Fiction,1
+3146,sci_fi,1
 3146,ja,1
 3146,non-en,1
 3052,Comedy,1
@@ -15221,7 +15221,7 @@
 100089,Horror,1
 100089,Action,1
 100089,Thriller,1
-100089,Science Fiction,1
+100089,sci_fi,1
 100089,en,1
 100089,en,1
 85510,Drama,1
@@ -15241,7 +15241,7 @@
 2966,Adventure,1
 2966,Fantasy,1
 2966,Action,1
-2966,Science Fiction,1
+2966,sci_fi,1
 2966,en,1
 2966,en,1
 26693,Horror,1
@@ -15336,11 +15336,11 @@
 5898,Horror,1
 5898,Action,1
 5898,Thriller,1
-5898,Science Fiction,1
+5898,sci_fi,1
 5898,en,1
 5898,en,1
 133339,Horror,1
-133339,Science Fiction,1
+133339,sci_fi,1
 133339,non-en,1
 49524,Fantasy,1
 49524,Action,1
@@ -15377,7 +15377,7 @@
 27003,Horror,1
 27003,en,1
 27003,en,1
-26158,Science Fiction,1
+26158,sci_fi,1
 26158,Adventure,1
 26158,en,1
 26158,en,1
@@ -15403,7 +15403,7 @@
 27457,Drama,1
 27457,pt,1
 27457,non-en,1
-71700,Science Fiction,1
+71700,sci_fi,1
 71700,Thriller,1
 71700,Drama,1
 71700,en,1
@@ -15442,10 +15442,10 @@
 115210,en,1
 115210,en,1
 3160,Horror,1
-3160,Science Fiction,1
+3160,sci_fi,1
 3160,ja,1
 3160,non-en,1
-87302,Science Fiction,1
+87302,sci_fi,1
 87302,Horror,1
 87302,Comedy,1
 87302,es,1
@@ -15488,7 +15488,7 @@
 85312,en,1
 101299,Adventure,1
 101299,Action,1
-101299,Science Fiction,1
+101299,sci_fi,1
 101299,en,1
 101299,en,1
 51402,Documentary,1
@@ -15502,7 +15502,7 @@
 4578,en,1
 3030,Fantasy,1
 3030,Thriller,1
-3030,Science Fiction,1
+3030,sci_fi,1
 3030,en,1
 3030,en,1
 31035,Comedy,1
@@ -15522,15 +15522,15 @@
 106646,en,1
 106646,en,1
 2072,Action,1
-2072,Science Fiction,1
+2072,sci_fi,1
 2072,Thriller,1
 2072,en,1
 2072,en,1
 86817,Drama,1
-86817,Science Fiction,1
+86817,sci_fi,1
 86817,en,1
 86817,en,1
-26131,TV Movie,1
+26131,TV,1
 26131,Drama,1
 26131,Romance,1
 26131,Western,1
@@ -15538,7 +15538,7 @@
 43967,Animation,1
 43967,Comedy,1
 43967,Fantasy,1
-43967,Science Fiction,1
+43967,sci_fi,1
 43967,ja,1
 43967,non-en,1
 146712,Family,1
@@ -15546,7 +15546,7 @@
 146712,en,1
 146712,en,1
 5546,Comedy,1
-5546,Science Fiction,1
+5546,sci_fi,1
 5546,en,1
 5546,en,1
 107978,Comedy,1
@@ -15585,7 +15585,7 @@
 54272,Drama,1
 54272,ja,1
 54272,non-en,1
-110548,TV Movie,1
+110548,TV,1
 110548,Thriller,1
 110548,Action,1
 110548,en,1
@@ -15596,7 +15596,7 @@
 54274,ja,1
 54274,non-en,1
 116853,Drama,1
-116853,TV Movie,1
+116853,TV,1
 116853,fr,1
 116853,non-en,1
 25866,Comedy,1
@@ -15613,7 +15613,7 @@
 82362,it,1
 82362,en,1
 69278,Thriller,1
-69278,Science Fiction,1
+69278,sci_fi,1
 69278,es,1
 69278,non-en,1
 40342,Horror,1
@@ -15639,7 +15639,7 @@
 69406,en,1
 84152,Horror,1
 84152,Thriller,1
-84152,Science Fiction,1
+84152,sci_fi,1
 84152,Action,1
 84152,Fantasy,1
 84152,en,1
@@ -15706,7 +15706,7 @@
 54278,ja,1
 54278,non-en,1
 26947,Adventure,1
-26947,Science Fiction,1
+26947,sci_fi,1
 26947,Action,1
 26947,ja,1
 26947,non-en,1
@@ -15812,7 +15812,7 @@
 1840,en,1
 56171,Action,1
 56171,Horror,1
-56171,Science Fiction,1
+56171,sci_fi,1
 56171,women_writer_director,1
 56171,en,1
 56171,fr,1
@@ -15914,7 +15914,7 @@
 3171,non-en,1
 2965,Adventure,1
 2965,Action,1
-2965,Science Fiction,1
+2965,sci_fi,1
 2965,en,1
 2965,en,1
 166643,Drama,1
@@ -16178,16 +16178,16 @@
 25797,Comedy,1
 25797,Family,1
 25797,Fantasy,1
-25797,Science Fiction,1
+25797,sci_fi,1
 25797,nl,1
 25797,non-en,1
-27905,Science Fiction,1
+27905,sci_fi,1
 27905,Horror,1
 27905,en,1
 27905,it,1
 27905,en,1
 70984,Horror,1
-70984,Science Fiction,1
+70984,sci_fi,1
 70984,en,1
 70984,en,1
 116977,Animation,1
@@ -16222,14 +16222,14 @@
 27317,en,1
 3057,Drama,1
 3057,Horror,1
-3057,Science Fiction,1
+3057,sci_fi,1
 3057,Mystery,1
 3057,women_writer_director,1
 3057,fr,1
 3057,non-en,1
 3057,Drama,1
 3057,Horror,1
-3057,Science Fiction,1
+3057,sci_fi,1
 3057,Mystery,1
 3057,women_writer_director,1
 3057,fr,1
@@ -16271,7 +16271,7 @@
 3483,Adventure,1
 3483,Crime,1
 3483,Horror,1
-3483,Science Fiction,1
+3483,sci_fi,1
 3483,Thriller,1
 3483,en,1
 3483,de,1
@@ -16356,7 +16356,7 @@
 107999,en,1
 107999,en,1
 57326,Horror,1
-57326,Science Fiction,1
+57326,sci_fi,1
 57326,en,1
 57326,en,1
 7085,Adventure,1
@@ -16397,7 +16397,7 @@
 4968,en,1
 4968,en,1
 49050,Adventure,1
-49050,Science Fiction,1
+49050,sci_fi,1
 49050,Western,1
 49050,Comedy,1
 49050,en,1
@@ -16427,7 +16427,7 @@
 2648,cn,1
 2648,non-en,1
 1163,Drama,1
-1163,TV Movie,1
+1163,TV,1
 1163,en,1
 1163,en,1
 93892,Drama,1
@@ -16468,7 +16468,7 @@
 4930,Thriller,1
 4930,en,1
 4930,en,1
-69495,TV Movie,1
+69495,TV,1
 69495,Action,1
 69495,Western,1
 69495,en,1
@@ -16532,7 +16532,7 @@
 59178,en,1
 59178,en,1
 92371,Action,1
-92371,Science Fiction,1
+92371,sci_fi,1
 92371,Thriller,1
 92371,en,1
 92371,en,1
@@ -16566,7 +16566,7 @@
 5601,Drama,1
 5601,Horror,1
 5601,Mystery,1
-5601,Science Fiction,1
+5601,sci_fi,1
 5601,fr,1
 5601,non-en,1
 31362,Crime,1
@@ -16590,7 +16590,7 @@
 27850,Family,1
 27850,Fantasy,1
 27850,Horror,1
-27850,TV Movie,1
+27850,TV,1
 27850,en,1
 27850,en,1
 2186,Horror,1
@@ -16626,7 +16626,7 @@
 96306,Foreign,1
 96306,it,1
 96306,non-en,1
-41571,Science Fiction,1
+41571,sci_fi,1
 41571,Drama,1
 41571,xx,1
 41571,non-en,1
@@ -16640,7 +16640,7 @@
 133643,sv,1
 133643,en,1
 26925,Horror,1
-26925,Science Fiction,1
+26925,sci_fi,1
 26925,Thriller,1
 26925,en,1
 26925,en,1
@@ -16689,7 +16689,7 @@
 3423,Drama,1
 3423,fr,1
 3423,non-en,1
-27873,Science Fiction,1
+27873,sci_fi,1
 27873,en,1
 27873,en,1
 44191,Comedy,1
@@ -16767,7 +16767,7 @@
 95744,es,1
 95744,non-en,1
 69974,non-en,1
-54796,TV Movie,1
+54796,TV,1
 54796,Drama,1
 54796,en,1
 54796,en,1
@@ -16795,7 +16795,7 @@
 2963,Adventure,1
 2963,Comedy,1
 2963,Fantasy,1
-2963,Science Fiction,1
+2963,sci_fi,1
 2963,xx,1
 2963,non-en,1
 91908,Horror,1
@@ -16842,7 +16842,7 @@
 71910,Action,1
 71910,en,1
 71910,en,1
-97593,TV Movie,1
+97593,TV,1
 97593,Adventure,1
 97593,non-en,1
 38198,Drama,1
@@ -16942,7 +16942,7 @@
 40817,non-en,1
 90888,Horror,1
 90888,Comedy,1
-90888,Science Fiction,1
+90888,sci_fi,1
 90888,en,1
 90888,en,1
 31086,Comedy,1
@@ -16978,12 +16978,12 @@
 142115,en,1
 54732,Documentary,1
 54732,non-en,1
-50794,TV Movie,1
+50794,TV,1
 50794,Comedy,1
 50794,Family,1
 50794,en,1
 50794,en,1
-31042,Science Fiction,1
+31042,sci_fi,1
 31042,en,1
 31042,es,1
 31042,en,1
@@ -17056,7 +17056,7 @@
 27922,ru,1
 27922,non-en,1
 3122,Horror,1
-3122,Science Fiction,1
+3122,sci_fi,1
 3122,women_writer_director,1
 3122,en,1
 3122,it,1
@@ -17114,7 +17114,7 @@
 47150,et,1
 47150,non-en,1
 2462,Comedy,1
-2462,Science Fiction,1
+2462,sci_fi,1
 2462,da,1
 2462,fr,1
 2462,en,1
@@ -17138,7 +17138,7 @@
 74458,hi,1
 74458,en,1
 74458,en,1
-109463,Science Fiction,1
+109463,sci_fi,1
 109463,Horror,1
 109463,en,1
 109463,de,1
@@ -17183,10 +17183,10 @@
 59908,fi,1
 59908,en,1
 59908,en,1
-3056,TV Movie,1
+3056,TV,1
 3056,Drama,1
 3056,Horror,1
-3056,Science Fiction,1
+3056,sci_fi,1
 3056,Mystery,1
 3056,women_writer_director,1
 3056,en,1
@@ -17290,7 +17290,7 @@
 4199,Adventure,1
 4199,en,1
 4199,en,1
-27717,Science Fiction,1
+27717,sci_fi,1
 27717,es,1
 27717,en,1
 27717,en,1
@@ -17320,7 +17320,7 @@
 25764,ko,1
 25764,non-en,1
 3125,Horror,1
-3125,Science Fiction,1
+3125,sci_fi,1
 3125,en,1
 3125,en,1
 82667,Western,1
@@ -17342,7 +17342,7 @@
 5748,Drama,1
 5748,en,1
 5748,en,1
-26599,TV Movie,1
+26599,TV,1
 26599,Drama,1
 26599,Mystery,1
 26599,Romance,1
@@ -17406,7 +17406,7 @@
 5731,en,1
 5731,en,1
 36529,Horror,1
-36529,Science Fiction,1
+36529,sci_fi,1
 36529,en,1
 36529,en,1
 45431,Horror,1
@@ -17464,7 +17464,7 @@
 80648,de,1
 80648,en,1
 80219,Drama,1
-80219,TV Movie,1
+80219,TV,1
 80219,en,1
 80219,en,1
 25926,Documentary,1
@@ -17487,24 +17487,24 @@
 7092,en,1
 7092,es,1
 7092,en,1
-26155,Science Fiction,1
+26155,sci_fi,1
 26155,en,1
 26155,en,1
 34138,Action,1
 34138,Drama,1
 34138,de,1
 34138,non-en,1
-160718,TV Movie,1
+160718,TV,1
 160718,Action,1
 160718,Adventure,1
 160718,Comedy,1
 160718,en,1
 160718,en,1
-27338,TV Movie,1
+27338,TV,1
 27338,fr,1
 27338,non-en,1
 32677,Comedy,1
-32677,TV Movie,1
+32677,TV,1
 32677,en,1
 32677,en,1
 103688,Drama,1
@@ -17525,14 +17525,14 @@
 42053,Fantasy,1
 42053,Action,1
 42053,Thriller,1
-42053,Science Fiction,1
+42053,sci_fi,1
 42053,women_writer_director,1
 42053,en,1
 42053,en,1
 8930,Documentary,1
 8930,fr,1
 8930,non-en,1
-50162,Science Fiction,1
+50162,sci_fi,1
 50162,Horror,1
 50162,ja,1
 50162,non-en,1
@@ -17568,7 +17568,7 @@
 142106,en,1
 27351,Foreign,1
 27351,Horror,1
-27351,Science Fiction,1
+27351,sci_fi,1
 27351,ja,1
 27351,non-en,1
 59429,Horror,1
@@ -17604,7 +17604,7 @@
 5900,Drama,1
 5900,nl,1
 5900,non-en,1
-72720,Science Fiction,1
+72720,sci_fi,1
 72720,Family,1
 72720,Animation,1
 72720,en,1
@@ -17655,7 +17655,7 @@
 27456,en,1
 58432,Horror,1
 58432,Mystery,1
-58432,Science Fiction,1
+58432,sci_fi,1
 58432,Thriller,1
 58432,es,1
 58432,non-en,1
@@ -17705,7 +17705,7 @@
 45722,es,1
 45722,non-en,1
 3145,Horror,1
-3145,Science Fiction,1
+3145,sci_fi,1
 3145,women_writer_director,1
 3145,en,1
 3145,en,1
@@ -17743,7 +17743,7 @@
 82368,non-en,1
 2969,Drama,1
 2969,Fantasy,1
-2969,Science Fiction,1
+2969,sci_fi,1
 2969,Horror,1
 2969,non-en,1
 40826,Drama,1
@@ -17848,7 +17848,7 @@
 26849,Mystery,1
 26849,en,1
 26849,en,1
-3578,Science Fiction,1
+3578,sci_fi,1
 3578,de,1
 3578,non-en,1
 99708,Drama,1
@@ -17880,7 +17880,7 @@
 80928,en,1
 80928,en,1
 92804,Horror,1
-92804,Science Fiction,1
+92804,sci_fi,1
 92804,Thriller,1
 92804,en,1
 92804,en,1
@@ -17916,7 +17916,7 @@
 4419,History,1
 4419,it,1
 4419,non-en,1
-70864,Science Fiction,1
+70864,sci_fi,1
 70864,Action,1
 70864,it,1
 70864,non-en,1
@@ -17931,7 +17931,7 @@
 120478,en,1
 120478,en,1
 31647,Fantasy,1
-31647,Science Fiction,1
+31647,sci_fi,1
 31647,Horror,1
 31647,en,1
 31647,en,1
@@ -18010,7 +18010,7 @@
 67087,en,1
 67087,en,1
 92393,Horror,1
-92393,Science Fiction,1
+92393,sci_fi,1
 92393,women_writer_director,1
 92393,en,1
 92393,en,1
@@ -18019,7 +18019,7 @@
 48943,Thriller,1
 48943,cn,1
 48943,non-en,1
-39446,TV Movie,1
+39446,TV,1
 39446,Crime,1
 39446,Drama,1
 39446,Mystery,1
@@ -18035,7 +18035,7 @@
 33316,Documentary,1
 33316,non-en,1
 64508,Adventure,1
-64508,Science Fiction,1
+64508,sci_fi,1
 64508,Drama,1
 64508,de,1
 64508,non-en,1
@@ -18048,12 +18048,12 @@
 27009,Action,1
 27009,Horror,1
 27009,Mystery,1
-27009,Science Fiction,1
+27009,sci_fi,1
 27009,Thriller,1
 27009,en,1
 27009,en,1
 6884,Comedy,1
-6884,Science Fiction,1
+6884,sci_fi,1
 6884,en,1
 6884,en,1
 26736,Adventure,1
@@ -18066,12 +18066,12 @@
 1877,Fantasy,1
 1877,Action,1
 1877,Thriller,1
-1877,Science Fiction,1
+1877,sci_fi,1
 1877,en,1
 1877,de,1
 1877,en,1
 26702,Horror,1
-26702,TV Movie,1
+26702,TV,1
 26702,women_writer_director,1
 26702,en,1
 26702,en,1
@@ -18158,17 +18158,17 @@
 106739,non-en,1
 151687,Drama,1
 151687,Thriller,1
-151687,TV Movie,1
+151687,TV,1
 151687,non-en,1
 3025,Horror,1
-3025,Science Fiction,1
+3025,sci_fi,1
 3025,Romance,1
 3025,en,1
 3025,en,1
 4709,Comedy,1
 4709,fr,1
 4709,non-en,1
-57845,Science Fiction,1
+57845,sci_fi,1
 57845,Horror,1
 57845,Action,1
 57845,en,1
@@ -18186,7 +18186,7 @@
 48242,Adventure,1
 48242,Fantasy,1
 48242,Action,1
-48242,Science Fiction,1
+48242,sci_fi,1
 48242,Foreign,1
 48242,es,1
 48242,non-en,1
@@ -18212,7 +18212,7 @@
 93193,en,1
 93193,en,1
 4289,Horror,1
-4289,Science Fiction,1
+4289,sci_fi,1
 4289,Thriller,1
 4289,en,1
 4289,en,1
@@ -18363,7 +18363,7 @@
 52088,en,1
 52088,de,1
 52088,en,1
-168712,TV Movie,1
+168712,TV,1
 168712,Thriller,1
 168712,en,1
 168712,en,1
@@ -18374,7 +18374,7 @@
 50583,non-en,1
 60948,Adventure,1
 60948,Fantasy,1
-60948,Science Fiction,1
+60948,sci_fi,1
 60948,cs,1
 60948,non-en,1
 102860,Drama,1
@@ -18403,7 +18403,7 @@
 36511,Action,1
 36511,Drama,1
 36511,Fantasy,1
-36511,Science Fiction,1
+36511,sci_fi,1
 36511,Thriller,1
 36511,en,1
 36511,en,1
@@ -18423,7 +18423,7 @@
 78088,Drama,1
 78088,Action,1
 78088,Thriller,1
-78088,Science Fiction,1
+78088,sci_fi,1
 78088,en,1
 78088,en,1
 2989,Adventure,1
@@ -18447,7 +18447,7 @@
 31184,ko,1
 31184,non-en,1
 50942,Horror,1
-50942,Science Fiction,1
+50942,sci_fi,1
 50942,Thriller,1
 50942,en,1
 50942,en,1
@@ -18499,7 +18499,7 @@
 26691,non-en,1
 114426,Documentary,1
 114426,non-en,1
-7456,Science Fiction,1
+7456,sci_fi,1
 7456,Thriller,1
 7456,de,1
 7456,non-en,1
@@ -18529,7 +18529,7 @@
 41617,Music,1
 41617,non-en,1
 30,Animation,1
-30,Science Fiction,1
+30,sci_fi,1
 30,ja,1
 30,non-en,1
 5066,Comedy,1
@@ -18544,8 +18544,8 @@
 42548,women_writer_director,1
 42548,en,1
 42548,en,1
-3786,Science Fiction,1
-3786,TV Movie,1
+3786,sci_fi,1
+3786,TV,1
 3786,en,1
 3786,en,1
 44238,Comedy,1
@@ -18587,7 +18587,7 @@
 4546,Adventure,1
 4546,Drama,1
 4546,History,1
-4546,TV Movie,1
+4546,TV,1
 4546,en,1
 4546,en,1
 3698,Western,1
@@ -18601,7 +18601,7 @@
 121245,en,1
 121245,en,1
 169782,Drama,1
-169782,TV Movie,1
+169782,TV,1
 169782,en,1
 169782,en,1
 112767,Thriller,1
@@ -18619,7 +18619,7 @@
 39048,en,1
 39048,en,1
 89904,Action,1
-89904,Science Fiction,1
+89904,sci_fi,1
 89904,en,1
 89904,en,1
 46572,it,1
@@ -18637,7 +18637,7 @@
 86320,es,1
 86320,pt,1
 86320,non-en,1
-61348,TV Movie,1
+61348,TV,1
 61348,Romance,1
 61348,Drama,1
 61348,women_writer_director,1
@@ -18659,14 +18659,14 @@
 92391,en,1
 92391,en,1
 27391,Action,1
-27391,Science Fiction,1
+27391,sci_fi,1
 27391,en,1
 27391,en,1
 8893,Documentary,1
 8893,fr,1
 8893,non-en,1
 110130,Action,1
-110130,Science Fiction,1
+110130,sci_fi,1
 110130,Thriller,1
 110130,en,1
 110130,en,1
@@ -18674,7 +18674,7 @@
 2324,en,1
 2324,en,1
 39449,Action,1
-39449,Science Fiction,1
+39449,sci_fi,1
 39449,en,1
 39449,en,1
 33495,it,1
@@ -18684,7 +18684,7 @@
 110669,en,1
 41025,Fantasy,1
 41025,Horror,1
-41025,TV Movie,1
+41025,TV,1
 41025,women_writer_director,1
 41025,en,1
 41025,en,1
@@ -18716,7 +18716,7 @@
 55156,Comedy,1
 55156,cn,1
 55156,non-en,1
-27620,Science Fiction,1
+27620,sci_fi,1
 27620,Comedy,1
 27620,en,1
 27620,en,1
@@ -18745,7 +18745,7 @@
 5764,Family,1
 5764,Adventure,1
 5764,Romance,1
-5764,TV Movie,1
+5764,TV,1
 5764,en,1
 5764,en,1
 72701,Drama,1
@@ -18793,7 +18793,7 @@
 6103,en,1
 140491,Drama,1
 140491,Horror,1
-140491,Science Fiction,1
+140491,sci_fi,1
 140491,en,1
 140491,en,1
 26370,History,1
@@ -18929,7 +18929,7 @@
 1596,ru,1
 1596,en,1
 43009,Drama,1
-43009,Science Fiction,1
+43009,sci_fi,1
 43009,en,1
 43009,en,1
 25833,Comedy,1
@@ -18996,7 +18996,7 @@
 72386,en,1
 71520,Mystery,1
 71520,Romance,1
-71520,Science Fiction,1
+71520,sci_fi,1
 71520,Drama,1
 71520,en,1
 71520,en,1
@@ -19006,7 +19006,7 @@
 74154,Foreign,1
 74154,te,1
 74154,non-en,1
-25977,Science Fiction,1
+25977,sci_fi,1
 25977,Thriller,1
 25977,en,1
 25977,en,1
@@ -19023,7 +19023,7 @@
 127146,non-en,1
 3003,Adventure,1
 3003,Fantasy,1
-3003,Science Fiction,1
+3003,sci_fi,1
 3003,en,1
 3003,en,1
 4644,Comedy,1
@@ -19066,7 +19066,7 @@
 52891,pl,1
 52891,ru,1
 52891,non-en,1
-68954,TV Movie,1
+68954,TV,1
 68954,Drama,1
 68954,History,1
 68954,en,1
@@ -19100,7 +19100,7 @@
 42794,en,1
 42794,en,1
 3210,Horror,1
-3210,Science Fiction,1
+3210,sci_fi,1
 3210,en,1
 3210,en,1
 79599,Animation,1
@@ -19132,7 +19132,7 @@
 59738,en,1
 59738,en,1
 6436,Drama,1
-6436,Science Fiction,1
+6436,sci_fi,1
 6436,Thriller,1
 6436,en,1
 6436,en,1
@@ -19140,7 +19140,7 @@
 74580,fr,1
 74580,non-en,1
 64278,Action,1
-64278,Science Fiction,1
+64278,sci_fi,1
 64278,en,1
 64278,en,1
 86190,Comedy,1
@@ -19148,7 +19148,7 @@
 86190,en,1
 2791,Action,1
 2791,Animation,1
-2791,Science Fiction,1
+2791,sci_fi,1
 2791,Thriller,1
 2791,en,1
 2791,en,1
@@ -19159,7 +19159,7 @@
 2154,Horror,1
 2154,Action,1
 2154,Thriller,1
-2154,Science Fiction,1
+2154,sci_fi,1
 2154,en,1
 2154,en,1
 4049,Drama,1
@@ -19270,7 +19270,7 @@
 80831,id,1
 80831,non-en,1
 3104,Horror,1
-3104,Science Fiction,1
+3104,sci_fi,1
 3104,en,1
 3104,en,1
 64197,Romance,1
