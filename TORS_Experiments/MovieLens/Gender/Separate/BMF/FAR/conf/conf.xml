@@ -18,7 +18,7 @@
 	<!-- FEATURES SECTION -->
 	<features>
 		<appender-class>net.librec.data.convertor.appender.ItemFeatureAppender</appender-class>
-		<item-feature-file>movieid_feature_df.csv</item-feature-file>
+		<item-feature-file>movieid_feature_df_gender.csv</item-feature-file>
 		<protected-feature name="fea:women_writer_director" type="fea:women_writer_director">women_writer_director</protected-feature>
 	</features>
 
