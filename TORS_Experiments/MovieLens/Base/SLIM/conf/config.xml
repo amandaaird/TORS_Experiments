@@ -29,7 +29,7 @@
 	
         <optimize>
                 <iterations>25</iterations>
-                <metric>ndcg_metric.py</metric>
+                <metric>ndcg</metric>
         </optimize>
 
         <!-- ALGORITHM SECTION -->
