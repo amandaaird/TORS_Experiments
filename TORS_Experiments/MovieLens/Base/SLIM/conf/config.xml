@@ -28,13 +28,13 @@
 	</splitter>
 	
         <optimize>
-                <iterations>100</iterations>
+                <iterations>25</iterations>
                 <metric>ndcg_metric.py</metric>
         </optimize>
 
         <!-- ALGORITHM SECTION -->
         <alg ref="alg:slim">
-                <iterator-max>25</iterator-max>
+                <iterator-max>30</iterator-max>
                 <l1-reg><lower>0.5</lower><upper>2</upper></l1-reg>
                 <l2-reg><lower>0.5</lower><upper>2</upper></l2-reg>
         </alg>
