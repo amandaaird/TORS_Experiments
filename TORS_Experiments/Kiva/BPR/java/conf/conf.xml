@@ -45,16 +45,6 @@
 		<class>ndcg,psp</class>
 		<protected-feature ref="fea:loan_buck_5"/>
 
-		<script src="system" lang="python3">
-			<script-name>ndcg_metric.py</script-name>
-			<param name="list_size">10</param>
-		</script>
-
-		<script src="system" lang="python3">
-			<script-name>psp.py</script-name>
-			<param name="list_size">10</param>
-			<param name="protected_feature">loan_buck_5</param>
-		</script>
 	</metric>
 
 	<rerank>
