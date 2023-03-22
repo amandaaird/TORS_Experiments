@@ -67,9 +67,6 @@
 			<param name="lambda">
 				<lower>0.01</lower><upper>1</upper>
 			</param>
-			<param name="alpha">
-				<lower>0.01</lower><upper>1</upper>
-			</param>
 			<param name="binary">False</param>
 			<param name="protected_feature" ref="fea:non-en"/>
 		</script>
