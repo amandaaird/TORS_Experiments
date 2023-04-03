@@ -63,7 +63,7 @@
 				<lower>0</lower><upper>1</upper>
 			</param>
 			<param name="binary">False</param>
-			<param name="protected_feature" ref="fea:women_writer_director/>
+			<param name="protected_feature" ref="fea:women_writer_director"/>
 		</script>
 	</rerank>
 
