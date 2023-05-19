@@ -26,6 +26,7 @@
 		<iterations>50</iterations>
 		<metric>ndcg</metric>
 		<previous-max>0.049989</previous-max>
+		<optimization-type>multiplicative</optimization-type>
 	</optimize>
 
 	<!-- SPLITTER SECTION -->
