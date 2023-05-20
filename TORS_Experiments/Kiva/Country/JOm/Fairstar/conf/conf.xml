@@ -51,6 +51,17 @@
 		<list-size>50</list-size>
 		<class>ndcg,psp</class>
 		<protected-feature ref="fea:COUNTRY_low_pfr"/>
+		
+		<script src="system" lang="python3">
+			<script-name>ndcg_metric.py</script-name>
+			<param name="list_size">10</param>
+		</script>
+
+		<script src="system" lang="python3">
+			<script-name>psp.py</script-name>
+			<param name="list_size">10</param>
+			<param name="protected_feature">lCOUNTRY_low_pfr</param>
+		</script>
 	</metric>
 
 	<rerank>
