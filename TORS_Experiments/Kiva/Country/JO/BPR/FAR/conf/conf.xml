@@ -24,7 +24,9 @@
 
 	<optimize>
 		<iterations>50</iterations>
-		<metric>ndcg_metric.py</metric>
+		<metric>ndcg</metric>
+		<previous-max>0.15742772212589498</previous-max>
+		<optimization-type>additive</optimization-type>
 	</optimize>
 
 	<!-- SPLITTER SECTION -->
