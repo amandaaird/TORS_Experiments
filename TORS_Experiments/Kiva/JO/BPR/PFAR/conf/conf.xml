@@ -24,7 +24,9 @@
 
 	<optimize>
 		<iterations>50</iterations>
-		<metric>ndcg_metric.py</metric>
+		<metric>ndcg</metric>
+		<previous-max>0.15742772212589498</previous-max>
+		<optimization-type>additive</optimization-type>
 	</optimize>
 
 	<!-- SPLITTER SECTION -->
@@ -34,7 +36,7 @@
 	</splitter>
 
 	<alg ref="alg:bpr">
-		<iterator-max>150</iterator-max>
+		<iterator-max>100</iterator-max>
 		<user-reg><lower>0.001</lower><upper>0.8</upper></user-reg>
 		<item-reg><lower>0.001</lower><upper>0.8</upper></item-reg>
 		<num-factors type="discrete"><lower>20</lower><upper>150</upper></num-factors>
