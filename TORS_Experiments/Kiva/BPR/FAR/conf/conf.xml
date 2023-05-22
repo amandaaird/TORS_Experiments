@@ -31,7 +31,7 @@
 	<!-- ALGORITHM SECTION -->
 	<alg ref="alg:bpr">
 		<iterator-max>100</iterator-max>
-		<learn-rate>0.001</learn-rate>
+		<learn-rate>0.01</learn-rate>
 		<item-reg>0.15634316341184665</item-reg>
 		<user-reg>0.004012413952745706</user-reg>
 		<bold-driver>true</bold-driver>
