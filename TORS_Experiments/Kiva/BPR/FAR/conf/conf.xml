@@ -30,12 +30,12 @@
 
 	<!-- ALGORITHM SECTION -->
 	<alg ref="alg:bpr">
-		<iterator-max>50</iterator-max>
+		<iterator-max>100</iterator-max>
 		<learn-rate>0.001</learn-rate>
-		<item-reg>0.003417</item-reg>
-		<user-reg>0.718846</user-reg>
+		<item-reg>0.15634316341184665</item-reg>
+		<user-reg>0.004012413952745706</user-reg>
 		<bold-driver>true</bold-driver>
-		<num-factors type="discrete">31</num-factors>
+		<num-factors type="discrete">43</num-factors>
 	</alg>
 
 	<!-- METRICS SECTION -->
