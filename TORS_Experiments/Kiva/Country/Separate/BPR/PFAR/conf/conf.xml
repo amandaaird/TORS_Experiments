@@ -36,6 +36,7 @@
 		<user-reg>0.004012413952745706</user-reg>
 		<bold-driver>true</bold-driver>
 		<num-factors type="discrete">43</num-factors>
+		<learn-rate-max>0.1</learn-rate-max>
 	</alg>
 
 	<!-- METRICS SECTION -->
