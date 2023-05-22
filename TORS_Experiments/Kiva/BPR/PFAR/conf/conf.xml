@@ -73,18 +73,6 @@
 				<value>0.8</value>
                 <value>0.9</value>
 			</param>
-			<param name="alpha">
-				<value>0.0</value>
-                <value>0.1</value>
-				<value>0.2</value>
-                <value>0.3</value>
-				<value>0.4</value>
-                <value>0.5</value>
-				<value>0.6</value>
-                <value>0.7</value>
-				<value>0.8</value>
-                <value>0.9</value>
-			</param>
 			<param name="binary">False</param>
 			<param name="protected_feature" ref="fea:loan_buck_5"/>
 		</script>
