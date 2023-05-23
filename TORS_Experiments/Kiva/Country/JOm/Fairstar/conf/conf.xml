@@ -60,7 +60,7 @@
 		<script src="system" lang="python3">
 			<script-name>psp.py</script-name>
 			<param name="list_size">10</param>
-			<param name="protected_feature">lCOUNTRY_low_pfr</param>
+			<param name="protected_feature">COUNTRY_low_pfr</param>
 		</script>
 	</metric>
 
