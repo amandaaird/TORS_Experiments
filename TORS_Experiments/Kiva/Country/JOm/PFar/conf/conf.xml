@@ -22,12 +22,12 @@
 		<protected-feature name="fea:COUNTRY_low_pfr" type="fea:COUNTRY_low_pfr">COUNTRY_low_pfr</protected-feature>
 	</features>
 
-	<!--<optimize>
+	<optimize>
 		<iterations>50</iterations>
 		<metric>ndcg</metric>
 		<previous-max>0.15742772212589498</previous-max>
 		<optimization-type>multiplicative</optimization-type>
-	</optimize>-->
+	</optimize>
 
 	<!-- SPLITTER SECTION -->
 	<splitter>
@@ -70,10 +70,10 @@
 			<!--<param name="max_len">10</param>
 			<param name="lambda">
 				<lower>0.01</lower><upper>1</upper>
-			</param>
+			</param> -->
 			<param name="alpha">
 				<lower>0.01</lower><upper>1</upper>
-			</param> -->
+			</param>
 			<param name="binary">False</param>
 			<param name="protected_feature" ref="fea:COUNTRY_low_pfr"/>
 		</script>
